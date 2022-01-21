@@ -6,4 +6,6 @@ Project Description: 2D Pixel Role-Playing game filled with adventures, action, 
 Game Engine: Unity 2018.3.4f1 <br/>
 Date Finished: 3/15/2019 <br/>
 Type: Mobile App  <br/>
-OS: Android <br/>
+OS: Android <br/> 
+<br/>
+About: https://juans-upon-a-time.github.io/
