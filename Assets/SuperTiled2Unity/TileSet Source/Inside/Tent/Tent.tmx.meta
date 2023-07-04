@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 5651131ccd0ef94429d12dc2a54b6442
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/Tent
+    100002: _MapPrfab/Tent/Ground
+    100004: _MapPrfab/Tent/Ground/Chunk (-32,16)
+    100006: _MapPrfab/Tent/Ground/Chunk (-16,0)
+    100008: _MapPrfab/Tent/Ground/Chunk (-32,32)
+    100010: _MapPrfab/Tent/Ground/Chunk (0,0)
+    100012: _MapPrfab/Tent/Misc
+    100014: _MapPrfab/Tent/Ground/Chunk (16,16)
+    100016: _MapPrfab/Tent/Ground/Chunk (16,32)
+    100018: _MapPrfab/Tent/Misc/Chunk (16,32)
+    100020: _MapPrfab/Tent/MiscUp/Chunk (-32,16)
+    100022: _MapPrfab/Tent/Wall
+    100024: _MapPrfab/Tent/MiscUp/Chunk (-32,32)
+    100026: _MapPrfab/Tent/MiscUp/Chunk (16,16)
+    100028: _MapPrfab/Tent/MiscUp/Chunk (16,32)
+    100030: _MapPrfab/Tent/Support01/Chunk (-32,32)
+    100032: _MapPrfab/Tent/Support01/Chunk (16,32)
+    100034: _MapPrfab/Tent/SupportO2/Chunk (-32,16)
+    100036: _MapPrfab/Tent/SupportO2/Chunk (-32,32)
+    100038: _MapPrfab/Tent/SupportO2/Chunk (16,16)
+    100040: _MapPrfab/Tent/SupportO2/Chunk (16,32)
+    100042: _MapPrfab/Tent/Wall/Chunk (-32,16)
+    100044: _MapPrfab/Tent/Wall/Chunk (16,16)
+    100048: _MapPrfab/Tent/Ground/Chunk (-16,16)
+    100050: _MapPrfab/Tent/Ground/Chunk (-16,32)
+    100052: _MapPrfab/Tent/Ground/Chunk (0,16)
+    100054: _MapPrfab/Tent/Ground/Chunk (0,32)
+    100056: _MapPrfab/Tent/Misc/Chunk (-16,16)
+    100058: _MapPrfab/Tent/Misc/Chunk (-16,32)
+    100060: _MapPrfab/Tent/Misc/Chunk (0,16)
+    100062: _MapPrfab/Tent/Misc/Chunk (0,32)
+    100064: _MapPrfab/Tent/MiscUp
+    100066: _MapPrfab/Tent/MiscUp/Chunk (-16,16)
+    100068: _MapPrfab/Tent/MiscUp/Chunk (-16,32)
+    100070: _MapPrfab/Tent/MiscUp/Chunk (0,16)
+    100072: _MapPrfab/Tent/MiscUp/Chunk (0,32)
+    100074: _MapPrfab/Tent/Support01
+    100076: _MapPrfab/Tent/Support01/Chunk (-16,16)
+    100078: _MapPrfab/Tent/Support01/Chunk (-16,32)
+    100080: _MapPrfab/Tent/Support01/Chunk (0,16)
+    100082: _MapPrfab/Tent/Support01/Chunk (0,32)
+    100084: _MapPrfab/Tent/SupportO2
+    100086: _MapPrfab/Tent/SupportO2/Chunk (-16,16)
+    100088: _MapPrfab/Tent/SupportO2/Chunk (-16,32)
+    100090: _MapPrfab/Tent/SupportO2/Chunk (0,16)
+    100092: _MapPrfab/Tent/SupportO2/Chunk (0,32)
+    100094: _MapPrfab/Tent/Wall/Chunk (-16,16)
+    100096: _MapPrfab/Tent/Wall/Chunk (-16,32)
+    100098: _MapPrfab/Tent/Wall/Chunk (0,16)
+    100100: _MapPrfab/Tent/Wall/Chunk (0,32)
+    400000: _MapPrfab/Tent/Transform
+    400002: _MapPrfab/Tent/Ground/Transform
+    400004: _MapPrfab/Tent/Ground/Chunk (-32,16)/Transform
+    400006: _MapPrfab/Tent/Ground/Chunk (-16,0)/Transform
+    400008: _MapPrfab/Tent/Ground/Chunk (-32,32)/Transform
+    400010: _MapPrfab/Tent/Ground/Chunk (0,0)/Transform
+    400012: _MapPrfab/Tent/Misc/Transform
+    400014: _MapPrfab/Tent/Ground/Chunk (16,16)/Transform
+    400016: _MapPrfab/Tent/Ground/Chunk (16,32)/Transform
+    400018: _MapPrfab/Tent/Misc/Chunk (16,32)/Transform
+    400020: _MapPrfab/Tent/MiscUp/Chunk (-32,16)/Transform
+    400022: _MapPrfab/Tent/Wall/Transform
+    400024: _MapPrfab/Tent/MiscUp/Chunk (-32,32)/Transform
+    400026: _MapPrfab/Tent/MiscUp/Chunk (16,16)/Transform
+    400028: _MapPrfab/Tent/MiscUp/Chunk (16,32)/Transform
+    400030: _MapPrfab/Tent/Support01/Chunk (-32,32)/Transform
+    400032: _MapPrfab/Tent/Support01/Chunk (16,32)/Transform
+    400034: _MapPrfab/Tent/SupportO2/Chunk (-32,16)/Transform
+    400036: _MapPrfab/Tent/SupportO2/Chunk (-32,32)/Transform
+    400038: _MapPrfab/Tent/SupportO2/Chunk (16,16)/Transform
+    400040: _MapPrfab/Tent/SupportO2/Chunk (16,32)/Transform
+    400042: _MapPrfab/Tent/Wall/Chunk (-32,16)/Transform
+    400044: _MapPrfab/Tent/Wall/Chunk (16,16)/Transform
+    400048: _MapPrfab/Tent/Ground/Chunk (-16,16)/Transform
+    400050: _MapPrfab/Tent/Ground/Chunk (-16,32)/Transform
+    400052: _MapPrfab/Tent/Ground/Chunk (0,16)/Transform
+    400054: _MapPrfab/Tent/Ground/Chunk (0,32)/Transform
+    400056: _MapPrfab/Tent/Misc/Chunk (-16,16)/Transform
+    400058: _MapPrfab/Tent/Misc/Chunk (-16,32)/Transform
+    400060: _MapPrfab/Tent/Misc/Chunk (0,16)/Transform
+    400062: _MapPrfab/Tent/Misc/Chunk (0,32)/Transform
+    400064: _MapPrfab/Tent/MiscUp/Transform
+    400066: _MapPrfab/Tent/MiscUp/Chunk (-16,16)/Transform
+    400068: _MapPrfab/Tent/MiscUp/Chunk (-16,32)/Transform
+    400070: _MapPrfab/Tent/MiscUp/Chunk (0,16)/Transform
+    400072: _MapPrfab/Tent/MiscUp/Chunk (0,32)/Transform
+    400074: _MapPrfab/Tent/Support01/Transform
+    400076: _MapPrfab/Tent/Support01/Chunk (-16,16)/Transform
+    400078: _MapPrfab/Tent/Support01/Chunk (-16,32)/Transform
+    400080: _MapPrfab/Tent/Support01/Chunk (0,16)/Transform
+    400082: _MapPrfab/Tent/Support01/Chunk (0,32)/Transform
+    400084: _MapPrfab/Tent/SupportO2/Transform
+    400086: _MapPrfab/Tent/SupportO2/Chunk (-16,16)/Transform
+    400088: _MapPrfab/Tent/SupportO2/Chunk (-16,32)/Transform
+    400090: _MapPrfab/Tent/SupportO2/Chunk (0,16)/Transform
+    400092: _MapPrfab/Tent/SupportO2/Chunk (0,32)/Transform
+    400094: _MapPrfab/Tent/Wall/Chunk (-16,16)/Transform
+    400096: _MapPrfab/Tent/Wall/Chunk (-16,32)/Transform
+    400098: _MapPrfab/Tent/Wall/Chunk (0,16)/Transform
+    400100: _MapPrfab/Tent/Wall/Chunk (0,32)/Transform
+    11400000: _MapPrfab/Tent/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/Tent/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/Tent/Ground/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/Tent/Ground/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/Tent/Misc/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400010: _MapPrfab/Tent/Misc/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400012: _MapPrfab/Tent/Wall/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400014: _MapPrfab/Tent/Wall/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400016: _superAsset
+    11400018: _MapPrfab/Tent/MiscUp/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400020: _MapPrfab/Tent/MiscUp/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400022: _MapPrfab/Tent/Support01/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400024: _MapPrfab/Tent/Support01/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400026: _MapPrfab/Tent/SupportO2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400028: _MapPrfab/Tent/SupportO2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/Tent/Grid
+    3664157343022684176: _MapPrfab/Tent/Ground/Chunk (-32,16)/TilemapRenderer
+    3664157343022684178: _MapPrfab/Tent/Ground/Chunk (-16,0)/TilemapRenderer
+    3664157343022684180: _MapPrfab/Tent/Ground/Chunk (-32,32)/TilemapRenderer
+    3664157343022684182: _MapPrfab/Tent/Ground/Chunk (0,0)/TilemapRenderer
+    3664157343022684184: _MapPrfab/Tent/Ground/Chunk (16,16)/TilemapRenderer
+    3664157343022684186: _MapPrfab/Tent/Ground/Chunk (16,32)/TilemapRenderer
+    3664157343022684188: _MapPrfab/Tent/Misc/Chunk (16,32)/TilemapRenderer
+    3664157343022684190: _MapPrfab/Tent/MiscUp/Chunk (-32,16)/TilemapRenderer
+    3664157343022684192: _MapPrfab/Tent/MiscUp/Chunk (-32,32)/TilemapRenderer
+    3664157343022684194: _MapPrfab/Tent/MiscUp/Chunk (16,16)/TilemapRenderer
+    3664157343022684196: _MapPrfab/Tent/MiscUp/Chunk (16,32)/TilemapRenderer
+    3664157343022684198: _MapPrfab/Tent/Support01/Chunk (-32,32)/TilemapRenderer
+    3664157343022684200: _MapPrfab/Tent/Support01/Chunk (16,32)/TilemapRenderer
+    3664157343022684202: _MapPrfab/Tent/SupportO2/Chunk (-32,16)/TilemapRenderer
+    3664157343022684204: _MapPrfab/Tent/SupportO2/Chunk (-32,32)/TilemapRenderer
+    3664157343022684206: _MapPrfab/Tent/SupportO2/Chunk (16,16)/TilemapRenderer
+    3664157343022684208: _MapPrfab/Tent/SupportO2/Chunk (16,32)/TilemapRenderer
+    3664157343022684210: _MapPrfab/Tent/Wall/Chunk (-32,16)/TilemapRenderer
+    3664157343022684212: _MapPrfab/Tent/Wall/Chunk (16,16)/TilemapRenderer
+    3664157343022684216: _MapPrfab/Tent/Ground/Chunk (-16,16)/TilemapRenderer
+    3664157343022684218: _MapPrfab/Tent/Ground/Chunk (-16,32)/TilemapRenderer
+    3664157343022684220: _MapPrfab/Tent/Ground/Chunk (0,16)/TilemapRenderer
+    3664157343022684222: _MapPrfab/Tent/Ground/Chunk (0,32)/TilemapRenderer
+    3664157343022684224: _MapPrfab/Tent/Misc/Chunk (-16,16)/TilemapRenderer
+    3664157343022684226: _MapPrfab/Tent/Misc/Chunk (-16,32)/TilemapRenderer
+    3664157343022684228: _MapPrfab/Tent/Misc/Chunk (0,16)/TilemapRenderer
+    3664157343022684230: _MapPrfab/Tent/Misc/Chunk (0,32)/TilemapRenderer
+    3664157343022684232: _MapPrfab/Tent/MiscUp/Chunk (-16,16)/TilemapRenderer
+    3664157343022684234: _MapPrfab/Tent/MiscUp/Chunk (-16,32)/TilemapRenderer
+    3664157343022684236: _MapPrfab/Tent/MiscUp/Chunk (0,16)/TilemapRenderer
+    3664157343022684238: _MapPrfab/Tent/MiscUp/Chunk (0,32)/TilemapRenderer
+    3664157343022684240: _MapPrfab/Tent/Support01/Chunk (-16,16)/TilemapRenderer
+    3664157343022684242: _MapPrfab/Tent/Support01/Chunk (-16,32)/TilemapRenderer
+    3664157343022684244: _MapPrfab/Tent/Support01/Chunk (0,16)/TilemapRenderer
+    3664157343022684246: _MapPrfab/Tent/Support01/Chunk (0,32)/TilemapRenderer
+    3664157343022684248: _MapPrfab/Tent/SupportO2/Chunk (-16,16)/TilemapRenderer
+    3664157343022684250: _MapPrfab/Tent/SupportO2/Chunk (-16,32)/TilemapRenderer
+    3664157343022684252: _MapPrfab/Tent/SupportO2/Chunk (0,16)/TilemapRenderer
+    3664157343022684254: _MapPrfab/Tent/SupportO2/Chunk (0,32)/TilemapRenderer
+    3664157343022684256: _MapPrfab/Tent/Wall/Chunk (-16,16)/TilemapRenderer
+    3664157343022684258: _MapPrfab/Tent/Wall/Chunk (-16,32)/TilemapRenderer
+    3664157343022684260: _MapPrfab/Tent/Wall/Chunk (0,16)/TilemapRenderer
+    3664157343022684262: _MapPrfab/Tent/Wall/Chunk (0,32)/TilemapRenderer
+    8195094279510102542: _MapPrfab/Tent/Ground/Chunk (-32,16)/Tilemap
+    8195094279510102544: _MapPrfab/Tent/Ground/Chunk (-16,0)/Tilemap
+    8195094279510102546: _MapPrfab/Tent/Ground/Chunk (-32,32)/Tilemap
+    8195094279510102548: _MapPrfab/Tent/Ground/Chunk (0,0)/Tilemap
+    8195094279510102550: _MapPrfab/Tent/Ground/Chunk (16,16)/Tilemap
+    8195094279510102552: _MapPrfab/Tent/Ground/Chunk (16,32)/Tilemap
+    8195094279510102554: _MapPrfab/Tent/Misc/Chunk (16,32)/Tilemap
+    8195094279510102556: _MapPrfab/Tent/MiscUp/Chunk (-32,16)/Tilemap
+    8195094279510102558: _MapPrfab/Tent/MiscUp/Chunk (-32,32)/Tilemap
+    8195094279510102560: _MapPrfab/Tent/MiscUp/Chunk (16,16)/Tilemap
+    8195094279510102562: _MapPrfab/Tent/MiscUp/Chunk (16,32)/Tilemap
+    8195094279510102564: _MapPrfab/Tent/Support01/Chunk (-32,32)/Tilemap
+    8195094279510102566: _MapPrfab/Tent/Support01/Chunk (16,32)/Tilemap
+    8195094279510102568: _MapPrfab/Tent/SupportO2/Chunk (-32,16)/Tilemap
+    8195094279510102570: _MapPrfab/Tent/SupportO2/Chunk (-32,32)/Tilemap
+    8195094279510102572: _MapPrfab/Tent/SupportO2/Chunk (16,16)/Tilemap
+    8195094279510102574: _MapPrfab/Tent/SupportO2/Chunk (16,32)/Tilemap
+    8195094279510102576: _MapPrfab/Tent/Wall/Chunk (-32,16)/Tilemap
+    8195094279510102578: _MapPrfab/Tent/Wall/Chunk (16,16)/Tilemap
+    8195094279510102582: _MapPrfab/Tent/Ground/Chunk (-16,16)/Tilemap
+    8195094279510102584: _MapPrfab/Tent/Ground/Chunk (-16,32)/Tilemap
+    8195094279510102586: _MapPrfab/Tent/Ground/Chunk (0,16)/Tilemap
+    8195094279510102588: _MapPrfab/Tent/Ground/Chunk (0,32)/Tilemap
+    8195094279510102590: _MapPrfab/Tent/Misc/Chunk (-16,16)/Tilemap
+    8195094279510102592: _MapPrfab/Tent/Misc/Chunk (-16,32)/Tilemap
+    8195094279510102594: _MapPrfab/Tent/Misc/Chunk (0,16)/Tilemap
+    8195094279510102596: _MapPrfab/Tent/Misc/Chunk (0,32)/Tilemap
+    8195094279510102598: _MapPrfab/Tent/MiscUp/Chunk (-16,16)/Tilemap
+    8195094279510102600: _MapPrfab/Tent/MiscUp/Chunk (-16,32)/Tilemap
+    8195094279510102602: _MapPrfab/Tent/MiscUp/Chunk (0,16)/Tilemap
+    8195094279510102604: _MapPrfab/Tent/MiscUp/Chunk (0,32)/Tilemap
+    8195094279510102606: _MapPrfab/Tent/Support01/Chunk (-16,16)/Tilemap
+    8195094279510102608: _MapPrfab/Tent/Support01/Chunk (-16,32)/Tilemap
+    8195094279510102610: _MapPrfab/Tent/Support01/Chunk (0,16)/Tilemap
+    8195094279510102612: _MapPrfab/Tent/Support01/Chunk (0,32)/Tilemap
+    8195094279510102614: _MapPrfab/Tent/SupportO2/Chunk (-16,16)/Tilemap
+    8195094279510102616: _MapPrfab/Tent/SupportO2/Chunk (-16,32)/Tilemap
+    8195094279510102618: _MapPrfab/Tent/SupportO2/Chunk (0,16)/Tilemap
+    8195094279510102620: _MapPrfab/Tent/SupportO2/Chunk (0,32)/Tilemap
+    8195094279510102622: _MapPrfab/Tent/Wall/Chunk (-16,16)/Tilemap
+    8195094279510102624: _MapPrfab/Tent/Wall/Chunk (-16,32)/Tilemap
+    8195094279510102626: _MapPrfab/Tent/Wall/Chunk (0,16)/Tilemap
+    8195094279510102628: _MapPrfab/Tent/Wall/Chunk (0,32)/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

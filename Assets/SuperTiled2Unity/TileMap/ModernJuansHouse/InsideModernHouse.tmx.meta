@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: e4c3c996bf87afd4eab794727c6fbb34
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/InsideModernHouse
+    100002: _MapPrfab/InsideModernHouse/Floor
+    100004: _MapPrfab/InsideModernHouse/Wall
+    100006: _MapPrfab/InsideModernHouse/Bound
+    100008: _MapPrfab/InsideModernHouse/Object
+    100010: _MapPrfab/InsideModernHouse/WallTop
+    100012: _MapPrfab/InsideModernHouse/Collision
+    100014: _MapPrfab/InsideModernHouse/Collision/Object_2
+    100016: _MapPrfab/InsideModernHouse/Collision/Object_4
+    100018: _MapPrfab/InsideModernHouse/Collision/Object_5
+    100020: _MapPrfab/InsideModernHouse/Collision/Object_6
+    100022: _MapPrfab/InsideModernHouse/Collision/Object_8
+    100024: _MapPrfab/InsideModernHouse/ObjectTop
+    100026: _MapPrfab/InsideModernHouse/Collision/Object_29
+    100028: _MapPrfab/InsideModernHouse/Collision/Object_12
+    100030: _MapPrfab/InsideModernHouse/Collision/Object_13
+    100032: _MapPrfab/InsideModernHouse/Collision/Object_14
+    100034: _MapPrfab/InsideModernHouse/Collision/Object_15
+    100038: _MapPrfab/InsideModernHouse/Collision/Object_17
+    100040: _MapPrfab/InsideModernHouse/Collision/Object_30
+    100042: _MapPrfab/InsideModernHouse/Collision/Object_31
+    100044: _MapPrfab/InsideModernHouse/Collision/Object_20
+    100046: _MapPrfab/InsideModernHouse/Collision/Object_21
+    100048: _MapPrfab/InsideModernHouse/Collision/Object_22
+    100050: _MapPrfab/InsideModernHouse/Collision/Object_23
+    100052: _MapPrfab/InsideModernHouse/Collision/Object_27
+    100054: _MapPrfab/InsideModernHouse/Collision/Object_26
+    100056: _MapPrfab/InsideModernHouse/Mesh
+    100058: _MapPrfab/InsideModernHouse/Mesh0
+    100060: _MapPrfab/InsideModernHouse/Collision/Object_33
+    100062: _MapPrfab/InsideModernHouse/Collision/Object_34
+    100064: _MapPrfab/InsideModernHouse/Collision/Object_35
+    100068: _MapPrfab/InsideModernHouse/Collision/Object_37
+    100070: _MapPrfab/InsideModernHouse/Collision/Object_38
+    100072: _MapPrfab/InsideModernHouse/Collision/Object_39
+    100074: _MapPrfab/InsideModernHouse/Collision/Object_40
+    100076: _MapPrfab/InsideModernHouse/Collision/Object_41
+    100078: _MapPrfab/InsideModernHouse/Collision/Object_42
+    100080: _MapPrfab/InsideModernHouse/Collision/Object_42/ConvexPolygon
+    100082: _MapPrfab/InsideModernHouse/Collision/Object_42/ConvexPolygon (1)
+    100084: _MapPrfab/InsideModernHouse/Collision/Object_42/ConvexPolygon (2)
+    100086: _MapPrfab/InsideModernHouse/Collision/Object_43
+    100088: _MapPrfab/InsideModernHouse/Collision/Object_43/ConvexPolygon
+    100090: _MapPrfab/InsideModernHouse/Collision/Object_43/ConvexPolygon (1)
+    100092: _MapPrfab/InsideModernHouse/Collision/Object_43/ConvexPolygon (2)
+    100094: _MapPrfab/InsideModernHouse/Collision/Object_44
+    100096: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon
+    100098: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon (1)
+    100100: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon (2)
+    100102: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon (3)
+    400000: _MapPrfab/InsideModernHouse/Transform
+    400002: _MapPrfab/InsideModernHouse/Floor/Transform
+    400004: _MapPrfab/InsideModernHouse/Wall/Transform
+    400006: _MapPrfab/InsideModernHouse/Bound/Transform
+    400008: _MapPrfab/InsideModernHouse/Object/Transform
+    400010: _MapPrfab/InsideModernHouse/WallTop/Transform
+    400012: _MapPrfab/InsideModernHouse/Collision/Transform
+    400014: _MapPrfab/InsideModernHouse/Collision/Object_2/Transform
+    400016: _MapPrfab/InsideModernHouse/Collision/Object_4/Transform
+    400018: _MapPrfab/InsideModernHouse/Collision/Object_5/Transform
+    400020: _MapPrfab/InsideModernHouse/Collision/Object_6/Transform
+    400022: _MapPrfab/InsideModernHouse/Collision/Object_8/Transform
+    400024: _MapPrfab/InsideModernHouse/ObjectTop/Transform
+    400026: _MapPrfab/InsideModernHouse/Collision/Object_29/Transform
+    400028: _MapPrfab/InsideModernHouse/Collision/Object_12/Transform
+    400030: _MapPrfab/InsideModernHouse/Collision/Object_13/Transform
+    400032: _MapPrfab/InsideModernHouse/Collision/Object_14/Transform
+    400034: _MapPrfab/InsideModernHouse/Collision/Object_15/Transform
+    400038: _MapPrfab/InsideModernHouse/Collision/Object_17/Transform
+    400040: _MapPrfab/InsideModernHouse/Collision/Object_30/Transform
+    400042: _MapPrfab/InsideModernHouse/Collision/Object_31/Transform
+    400044: _MapPrfab/InsideModernHouse/Collision/Object_20/Transform
+    400046: _MapPrfab/InsideModernHouse/Collision/Object_21/Transform
+    400048: _MapPrfab/InsideModernHouse/Collision/Object_22/Transform
+    400050: _MapPrfab/InsideModernHouse/Collision/Object_23/Transform
+    400052: _MapPrfab/InsideModernHouse/Collision/Object_27/Transform
+    400054: _MapPrfab/InsideModernHouse/Collision/Object_26/Transform
+    400056: _MapPrfab/InsideModernHouse/Mesh/Transform
+    400058: _MapPrfab/InsideModernHouse/Mesh0/Transform
+    400060: _MapPrfab/InsideModernHouse/Collision/Object_33/Transform
+    400062: _MapPrfab/InsideModernHouse/Collision/Object_34/Transform
+    400064: _MapPrfab/InsideModernHouse/Collision/Object_35/Transform
+    400068: _MapPrfab/InsideModernHouse/Collision/Object_37/Transform
+    400070: _MapPrfab/InsideModernHouse/Collision/Object_38/Transform
+    400072: _MapPrfab/InsideModernHouse/Collision/Object_39/Transform
+    400074: _MapPrfab/InsideModernHouse/Collision/Object_40/Transform
+    400076: _MapPrfab/InsideModernHouse/Collision/Object_41/Transform
+    400078: _MapPrfab/InsideModernHouse/Collision/Object_42/Transform
+    400080: _MapPrfab/InsideModernHouse/Collision/Object_42/ConvexPolygon/Transform
+    400082: _MapPrfab/InsideModernHouse/Collision/Object_42/ConvexPolygon (1)/Transform
+    400084: _MapPrfab/InsideModernHouse/Collision/Object_42/ConvexPolygon (2)/Transform
+    400086: _MapPrfab/InsideModernHouse/Collision/Object_43/Transform
+    400088: _MapPrfab/InsideModernHouse/Collision/Object_43/ConvexPolygon/Transform
+    400090: _MapPrfab/InsideModernHouse/Collision/Object_43/ConvexPolygon (1)/Transform
+    400092: _MapPrfab/InsideModernHouse/Collision/Object_43/ConvexPolygon (2)/Transform
+    400094: _MapPrfab/InsideModernHouse/Collision/Object_44/Transform
+    400096: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon/Transform
+    400098: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon (1)/Transform
+    400100: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon (2)/Transform
+    400102: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon (3)/Transform
+    5000000: _MapPrfab/InsideModernHouse/Collision/Object_42/Rigidbody2D
+    5000002: _MapPrfab/InsideModernHouse/Collision/Object_43/Rigidbody2D
+    5000004: _MapPrfab/InsideModernHouse/Collision/Object_44/Rigidbody2D
+    6000000: _MapPrfab/InsideModernHouse/Collision/Object_42/ConvexPolygon/PolygonCollider2D
+    6000002: _MapPrfab/InsideModernHouse/Collision/Object_42/ConvexPolygon (1)/PolygonCollider2D
+    6000004: _MapPrfab/InsideModernHouse/Collision/Object_42/ConvexPolygon (2)/PolygonCollider2D
+    6000006: _MapPrfab/InsideModernHouse/Collision/Object_43/ConvexPolygon/PolygonCollider2D
+    6000008: _MapPrfab/InsideModernHouse/Collision/Object_43/ConvexPolygon (1)/PolygonCollider2D
+    6000010: _MapPrfab/InsideModernHouse/Collision/Object_43/ConvexPolygon (2)/PolygonCollider2D
+    6000012: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon/PolygonCollider2D
+    6000014: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon (1)/PolygonCollider2D
+    6000016: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon (2)/PolygonCollider2D
+    6000018: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon (3)/PolygonCollider2D
+    6100000: _MapPrfab/InsideModernHouse/Collision/Object_2/BoxCollider2D
+    6100002: _MapPrfab/InsideModernHouse/Collision/Object_4/BoxCollider2D
+    6100004: _MapPrfab/InsideModernHouse/Collision/Object_5/BoxCollider2D
+    6100006: _MapPrfab/InsideModernHouse/Collision/Object_6/BoxCollider2D
+    6100008: _MapPrfab/InsideModernHouse/Collision/Object_8/BoxCollider2D
+    6100012: _MapPrfab/InsideModernHouse/Collision/Object_29/BoxCollider2D
+    6100014: _MapPrfab/InsideModernHouse/Collision/Object_12/BoxCollider2D
+    6100016: _MapPrfab/InsideModernHouse/Collision/Object_13/BoxCollider2D
+    6100018: _MapPrfab/InsideModernHouse/Collision/Object_14/BoxCollider2D
+    6100020: _MapPrfab/InsideModernHouse/Collision/Object_15/BoxCollider2D
+    6100024: _MapPrfab/InsideModernHouse/Collision/Object_17/BoxCollider2D
+    6100026: _MapPrfab/InsideModernHouse/Collision/Object_30/BoxCollider2D
+    6100028: _MapPrfab/InsideModernHouse/Collision/Object_31/BoxCollider2D
+    6100030: _MapPrfab/InsideModernHouse/Collision/Object_20/BoxCollider2D
+    6100032: _MapPrfab/InsideModernHouse/Collision/Object_21/BoxCollider2D
+    6100034: _MapPrfab/InsideModernHouse/Collision/Object_22/BoxCollider2D
+    6100036: _MapPrfab/InsideModernHouse/Collision/Object_23/BoxCollider2D
+    6100038: _MapPrfab/InsideModernHouse/Collision/Object_27/BoxCollider2D
+    6100040: _MapPrfab/InsideModernHouse/Collision/Object_26/BoxCollider2D
+    6100042: _MapPrfab/InsideModernHouse/Collision/Object_33/BoxCollider2D
+    6100044: _MapPrfab/InsideModernHouse/Collision/Object_34/BoxCollider2D
+    6100046: _MapPrfab/InsideModernHouse/Collision/Object_35/BoxCollider2D
+    6100050: _MapPrfab/InsideModernHouse/Collision/Object_37/BoxCollider2D
+    6100052: _MapPrfab/InsideModernHouse/Collision/Object_38/BoxCollider2D
+    6100054: _MapPrfab/InsideModernHouse/Collision/Object_39/BoxCollider2D
+    6100056: _MapPrfab/InsideModernHouse/Collision/Object_40/BoxCollider2D
+    6100058: _MapPrfab/InsideModernHouse/Collision/Object_41/BoxCollider2D
+    6600000: _MapPrfab/InsideModernHouse/Collision/Object_42/CompositeCollider2D
+    6600002: _MapPrfab/InsideModernHouse/Collision/Object_43/CompositeCollider2D
+    6600004: _MapPrfab/InsideModernHouse/Collision/Object_44/CompositeCollider2D
+    11400000: _MapPrfab/InsideModernHouse/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/InsideModernHouse/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/InsideModernHouse/Floor/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/InsideModernHouse/Floor/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/InsideModernHouse/Wall/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400010: _MapPrfab/InsideModernHouse/Wall/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400012: _MapPrfab/InsideModernHouse/Bound/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400014: _MapPrfab/InsideModernHouse/Bound/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400016: _MapPrfab/InsideModernHouse/Object/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400018: _MapPrfab/InsideModernHouse/Object/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400020: _MapPrfab/InsideModernHouse/WallTop/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400022: _MapPrfab/InsideModernHouse/WallTop/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400024: _MapPrfab/InsideModernHouse/Collision/MonoBehaviour-SuperTiled2Unity.SuperObjectLayer
+    11400026: _MapPrfab/InsideModernHouse/Collision/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400028: _MapPrfab/InsideModernHouse/Collision/Object_2/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400030: _MapPrfab/InsideModernHouse/Collision/Object_2/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400032: _MapPrfab/InsideModernHouse/Collision/Object_2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400034: _MapPrfab/InsideModernHouse/Collision/Object_4/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400036: _MapPrfab/InsideModernHouse/Collision/Object_4/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400038: _MapPrfab/InsideModernHouse/Collision/Object_4/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400040: _MapPrfab/InsideModernHouse/Collision/Object_5/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400042: _MapPrfab/InsideModernHouse/Collision/Object_5/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400044: _MapPrfab/InsideModernHouse/Collision/Object_5/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400046: _MapPrfab/InsideModernHouse/Collision/Object_6/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400048: _MapPrfab/InsideModernHouse/Collision/Object_6/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400050: _MapPrfab/InsideModernHouse/Collision/Object_6/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400052: _MapPrfab/InsideModernHouse/Collision/Object_8/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400054: _MapPrfab/InsideModernHouse/Collision/Object_8/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400056: _MapPrfab/InsideModernHouse/Collision/Object_8/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400058: _MapPrfab/InsideModernHouse/ObjectTop/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400060: _MapPrfab/InsideModernHouse/ObjectTop/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400062: _MapPrfab/InsideModernHouse/Collision/Object_42/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400064: _MapPrfab/InsideModernHouse/Collision/Object_29/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400066: _MapPrfab/InsideModernHouse/Collision/Object_29/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400068: _MapPrfab/InsideModernHouse/Collision/Object_29/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400070: _MapPrfab/InsideModernHouse/Collision/Object_12/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400072: _MapPrfab/InsideModernHouse/Collision/Object_12/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400074: _MapPrfab/InsideModernHouse/Collision/Object_12/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400076: _MapPrfab/InsideModernHouse/Collision/Object_13/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400078: _MapPrfab/InsideModernHouse/Collision/Object_13/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400080: _MapPrfab/InsideModernHouse/Collision/Object_13/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400082: _MapPrfab/InsideModernHouse/Collision/Object_14/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400084: _MapPrfab/InsideModernHouse/Collision/Object_14/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400086: _MapPrfab/InsideModernHouse/Collision/Object_14/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400088: _MapPrfab/InsideModernHouse/Collision/Object_15/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400090: _MapPrfab/InsideModernHouse/Collision/Object_15/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400092: _MapPrfab/InsideModernHouse/Collision/Object_15/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400100: _MapPrfab/InsideModernHouse/Collision/Object_17/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400102: _MapPrfab/InsideModernHouse/Collision/Object_17/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400104: _MapPrfab/InsideModernHouse/Collision/Object_17/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400106: _MapPrfab/InsideModernHouse/Collision/Object_30/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400108: _MapPrfab/InsideModernHouse/Collision/Object_30/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400110: _MapPrfab/InsideModernHouse/Collision/Object_30/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400112: _MapPrfab/InsideModernHouse/Collision/Object_31/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400114: _MapPrfab/InsideModernHouse/Collision/Object_31/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400116: _MapPrfab/InsideModernHouse/Collision/Object_31/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400118: _MapPrfab/InsideModernHouse/Collision/Object_20/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400120: _MapPrfab/InsideModernHouse/Collision/Object_20/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400122: _MapPrfab/InsideModernHouse/Collision/Object_20/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400124: _MapPrfab/InsideModernHouse/Collision/Object_21/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400126: _MapPrfab/InsideModernHouse/Collision/Object_21/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400128: _MapPrfab/InsideModernHouse/Collision/Object_21/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400130: _MapPrfab/InsideModernHouse/Collision/Object_22/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400132: _MapPrfab/InsideModernHouse/Collision/Object_22/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400134: _MapPrfab/InsideModernHouse/Collision/Object_22/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400136: _MapPrfab/InsideModernHouse/Collision/Object_23/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400138: _MapPrfab/InsideModernHouse/Collision/Object_23/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400140: _MapPrfab/InsideModernHouse/Collision/Object_23/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400142: _MapPrfab/InsideModernHouse/Collision/Object_27/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400144: _MapPrfab/InsideModernHouse/Collision/Object_27/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400146: _MapPrfab/InsideModernHouse/Collision/Object_27/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400148: _MapPrfab/InsideModernHouse/Collision/Object_26/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400150: _MapPrfab/InsideModernHouse/Collision/Object_26/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400152: _MapPrfab/InsideModernHouse/Collision/Object_26/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400154: _MapPrfab/InsideModernHouse/Mesh/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400156: _MapPrfab/InsideModernHouse/Mesh/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400158: _MapPrfab/InsideModernHouse/Mesh0/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400160: _MapPrfab/InsideModernHouse/Mesh0/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400162: _MapPrfab/InsideModernHouse/Collision/Object_33/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400164: _MapPrfab/InsideModernHouse/Collision/Object_33/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400166: _MapPrfab/InsideModernHouse/Collision/Object_33/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400168: _MapPrfab/InsideModernHouse/Collision/Object_34/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400170: _superAsset
+    11400172: _MapPrfab/InsideModernHouse/Collision/Object_34/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400174: _MapPrfab/InsideModernHouse/Collision/Object_34/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400176: _MapPrfab/InsideModernHouse/Collision/Object_35/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400178: _MapPrfab/InsideModernHouse/Collision/Object_35/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400180: _MapPrfab/InsideModernHouse/Collision/Object_35/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400188: _MapPrfab/InsideModernHouse/Collision/Object_37/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400190: _MapPrfab/InsideModernHouse/Collision/Object_37/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400192: _MapPrfab/InsideModernHouse/Collision/Object_37/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400194: _MapPrfab/InsideModernHouse/Collision/Object_38/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400196: _MapPrfab/InsideModernHouse/Collision/Object_38/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400198: _MapPrfab/InsideModernHouse/Collision/Object_38/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400200: _MapPrfab/InsideModernHouse/Collision/Object_39/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400202: _MapPrfab/InsideModernHouse/Collision/Object_39/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400204: _MapPrfab/InsideModernHouse/Collision/Object_39/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400206: _MapPrfab/InsideModernHouse/Collision/Object_40/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400208: _MapPrfab/InsideModernHouse/Collision/Object_40/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400210: _MapPrfab/InsideModernHouse/Collision/Object_40/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400212: _MapPrfab/InsideModernHouse/Collision/Object_41/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400214: _MapPrfab/InsideModernHouse/Collision/Object_41/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400216: _MapPrfab/InsideModernHouse/Collision/Object_41/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400218: _MapPrfab/InsideModernHouse/Collision/Object_42/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400220: _MapPrfab/InsideModernHouse/Collision/Object_42/ConvexPolygon/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400222: _MapPrfab/InsideModernHouse/Collision/Object_42/ConvexPolygon (1)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400224: _MapPrfab/InsideModernHouse/Collision/Object_42/ConvexPolygon (2)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400226: _MapPrfab/InsideModernHouse/Collision/Object_43/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400228: _MapPrfab/InsideModernHouse/Collision/Object_43/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400230: _MapPrfab/InsideModernHouse/Collision/Object_43/ConvexPolygon/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400232: _MapPrfab/InsideModernHouse/Collision/Object_43/ConvexPolygon (1)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400234: _MapPrfab/InsideModernHouse/Collision/Object_43/ConvexPolygon (2)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400236: _MapPrfab/InsideModernHouse/Collision/Object_44/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400238: _MapPrfab/InsideModernHouse/Collision/Object_44/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400240: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400242: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon (1)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400244: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon (2)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400246: _MapPrfab/InsideModernHouse/Collision/Object_44/ConvexPolygon (3)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/InsideModernHouse/Grid
+    3664157343022684176: _MapPrfab/InsideModernHouse/Floor/TilemapRenderer
+    3664157343022684178: _MapPrfab/InsideModernHouse/Wall/TilemapRenderer
+    3664157343022684180: _MapPrfab/InsideModernHouse/Bound/TilemapRenderer
+    3664157343022684182: _MapPrfab/InsideModernHouse/Object/TilemapRenderer
+    3664157343022684184: _MapPrfab/InsideModernHouse/WallTop/TilemapRenderer
+    3664157343022684186: _MapPrfab/InsideModernHouse/Mesh/TilemapRenderer
+    3664157343022684188: _MapPrfab/InsideModernHouse/Mesh0/TilemapRenderer
+    3664157343022684190: _MapPrfab/InsideModernHouse/ObjectTop/TilemapRenderer
+    8195094279510102542: _MapPrfab/InsideModernHouse/Floor/Tilemap
+    8195094279510102544: _MapPrfab/InsideModernHouse/Wall/Tilemap
+    8195094279510102546: _MapPrfab/InsideModernHouse/Bound/Tilemap
+    8195094279510102548: _MapPrfab/InsideModernHouse/Object/Tilemap
+    8195094279510102550: _MapPrfab/InsideModernHouse/WallTop/Tilemap
+    8195094279510102552: _MapPrfab/InsideModernHouse/Mesh/Tilemap
+    8195094279510102554: _MapPrfab/InsideModernHouse/Mesh0/Tilemap
+    8195094279510102556: _MapPrfab/InsideModernHouse/ObjectTop/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

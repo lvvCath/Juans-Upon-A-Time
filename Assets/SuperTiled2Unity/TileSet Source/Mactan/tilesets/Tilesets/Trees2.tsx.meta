@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: 47113b17b03b9604bbf13fc621036e24
+ScriptedImporter:
+  fileIDToRecycleName:
+    2800000: Atlas_Trees_1
+    11400000: _TilesetScriptObject
+    11400002: _superAsset
+    11400004: Tile_Trees_1
+    11400006: Tile_Trees_2
+    11400008: Tile_Trees_3
+    11400010: Tile_Trees_4
+    11400012: Tile_Trees_5
+    11400014: Tile_Trees_6
+    11400016: Tile_Trees_7
+    11400018: Tile_Trees_8
+    21300000: Sprite_Trees_1
+    21300002: Sprite_Trees_2
+    21300004: Sprite_Trees_3
+    21300006: Sprite_Trees_4
+    21300008: Sprite_Trees_5
+    21300010: Sprite_Trees_6
+    21300012: Sprite_Trees_7
+    21300014: Sprite_Trees_8
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 19
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

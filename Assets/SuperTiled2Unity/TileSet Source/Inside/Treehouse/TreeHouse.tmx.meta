@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 361cd18f8e79c9b46960dc6683841301
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/TreeHouse
+    100002: _MapPrfab/TreeHouse/Collider
+    100004: _MapPrfab/TreeHouse/Ground
+    100006: _MapPrfab/TreeHouse/Ground/Chunk (-16,-16)
+    100008: _MapPrfab/TreeHouse/Ground/Chunk (-16,0)
+    100010: _MapPrfab/TreeHouse/Ground/Chunk (-16,16)
+    100012: _MapPrfab/TreeHouse/Ground/Chunk (0,-16)
+    100014: _MapPrfab/TreeHouse/Ground/Chunk (0,0)
+    100016: _MapPrfab/TreeHouse/Ground/Chunk (0,16)
+    100018: _MapPrfab/TreeHouse/Ground/Chunk (16,-16)
+    100020: _MapPrfab/TreeHouse/Ground/Chunk (16,0)
+    100022: _MapPrfab/TreeHouse/Ground/Chunk (16,16)
+    100024: _MapPrfab/TreeHouse/Misc
+    100026: _MapPrfab/TreeHouse/Misc/Chunk (-16,-16)
+    100028: _MapPrfab/TreeHouse/Misc/Chunk (-16,0)
+    100030: _MapPrfab/TreeHouse/Misc/Chunk (-16,16)
+    100032: _MapPrfab/TreeHouse/Misc/Chunk (0,-16)
+    100034: _MapPrfab/TreeHouse/Misc/Chunk (0,0)
+    100036: _MapPrfab/TreeHouse/Misc/Chunk (16,-16)
+    100038: _MapPrfab/TreeHouse/Misc/Chunk (16,0)
+    100040: _MapPrfab/TreeHouse/Misc/Chunk (16,16)
+    100042: _MapPrfab/TreeHouse/MiscUp
+    100044: _MapPrfab/TreeHouse/MiscUp/Chunk (-16,0)
+    100046: _MapPrfab/TreeHouse/MiscUp/Chunk (-16,16)
+    100048: _MapPrfab/TreeHouse/MiscUp/Chunk (0,-16)
+    100050: _MapPrfab/TreeHouse/MiscUp/Chunk (0,0)
+    100052: _MapPrfab/TreeHouse/Collider/Object_1
+    100054: _MapPrfab/TreeHouse/Collider/Object_2
+    100056: _MapPrfab/TreeHouse/Collider/Object_3
+    100058: _MapPrfab/TreeHouse/Collider/Object_4
+    100060: _MapPrfab/TreeHouse/Collider/Object_5
+    100062: _MapPrfab/TreeHouse/Collider/Object_6
+    100064: _MapPrfab/TreeHouse/Collider/Object_7
+    100066: _MapPrfab/TreeHouse/Collider/Object_8
+    100068: _MapPrfab/TreeHouse/Collider/Object_9
+    100070: _MapPrfab/TreeHouse/Collider/Object_10
+    100072: _MapPrfab/TreeHouse/Collider/Object_11
+    100074: _MapPrfab/TreeHouse/Collider/Object_12
+    100076: _MapPrfab/TreeHouse/Collider/Object_13
+    100078: _MapPrfab/TreeHouse/Collider/Object_14
+    100080: _MapPrfab/TreeHouse/Collider/Object_15
+    100082: _MapPrfab/TreeHouse/Collider/Object_16
+    400000: _MapPrfab/TreeHouse/Transform
+    400002: _MapPrfab/TreeHouse/Collider/Transform
+    400004: _MapPrfab/TreeHouse/Ground/Transform
+    400006: _MapPrfab/TreeHouse/Ground/Chunk (-16,-16)/Transform
+    400008: _MapPrfab/TreeHouse/Ground/Chunk (-16,0)/Transform
+    400010: _MapPrfab/TreeHouse/Ground/Chunk (-16,16)/Transform
+    400012: _MapPrfab/TreeHouse/Ground/Chunk (0,-16)/Transform
+    400014: _MapPrfab/TreeHouse/Ground/Chunk (0,0)/Transform
+    400016: _MapPrfab/TreeHouse/Ground/Chunk (0,16)/Transform
+    400018: _MapPrfab/TreeHouse/Ground/Chunk (16,-16)/Transform
+    400020: _MapPrfab/TreeHouse/Ground/Chunk (16,0)/Transform
+    400022: _MapPrfab/TreeHouse/Ground/Chunk (16,16)/Transform
+    400024: _MapPrfab/TreeHouse/Misc/Transform
+    400026: _MapPrfab/TreeHouse/Misc/Chunk (-16,-16)/Transform
+    400028: _MapPrfab/TreeHouse/Misc/Chunk (-16,0)/Transform
+    400030: _MapPrfab/TreeHouse/Misc/Chunk (-16,16)/Transform
+    400032: _MapPrfab/TreeHouse/Misc/Chunk (0,-16)/Transform
+    400034: _MapPrfab/TreeHouse/Misc/Chunk (0,0)/Transform
+    400036: _MapPrfab/TreeHouse/Misc/Chunk (16,-16)/Transform
+    400038: _MapPrfab/TreeHouse/Misc/Chunk (16,0)/Transform
+    400040: _MapPrfab/TreeHouse/Misc/Chunk (16,16)/Transform
+    400042: _MapPrfab/TreeHouse/MiscUp/Transform
+    400044: _MapPrfab/TreeHouse/MiscUp/Chunk (-16,0)/Transform
+    400046: _MapPrfab/TreeHouse/MiscUp/Chunk (-16,16)/Transform
+    400048: _MapPrfab/TreeHouse/MiscUp/Chunk (0,-16)/Transform
+    400050: _MapPrfab/TreeHouse/MiscUp/Chunk (0,0)/Transform
+    400052: _MapPrfab/TreeHouse/Collider/Object_1/Transform
+    400054: _MapPrfab/TreeHouse/Collider/Object_2/Transform
+    400056: _MapPrfab/TreeHouse/Collider/Object_3/Transform
+    400058: _MapPrfab/TreeHouse/Collider/Object_4/Transform
+    400060: _MapPrfab/TreeHouse/Collider/Object_5/Transform
+    400062: _MapPrfab/TreeHouse/Collider/Object_6/Transform
+    400064: _MapPrfab/TreeHouse/Collider/Object_7/Transform
+    400066: _MapPrfab/TreeHouse/Collider/Object_8/Transform
+    400068: _MapPrfab/TreeHouse/Collider/Object_9/Transform
+    400070: _MapPrfab/TreeHouse/Collider/Object_10/Transform
+    400072: _MapPrfab/TreeHouse/Collider/Object_11/Transform
+    400074: _MapPrfab/TreeHouse/Collider/Object_12/Transform
+    400076: _MapPrfab/TreeHouse/Collider/Object_13/Transform
+    400078: _MapPrfab/TreeHouse/Collider/Object_14/Transform
+    400080: _MapPrfab/TreeHouse/Collider/Object_15/Transform
+    400082: _MapPrfab/TreeHouse/Collider/Object_16/Transform
+    5800000: _MapPrfab/TreeHouse/Collider/Object_8/CircleCollider2D
+    6000000: _MapPrfab/TreeHouse/Collider/Object_7/PolygonCollider2D
+    6000002: _MapPrfab/TreeHouse/Collider/Object_9/PolygonCollider2D
+    6100000: _MapPrfab/TreeHouse/Collider/Object_1/BoxCollider2D
+    6100002: _MapPrfab/TreeHouse/Collider/Object_2/BoxCollider2D
+    6100004: _MapPrfab/TreeHouse/Collider/Object_3/BoxCollider2D
+    6100006: _MapPrfab/TreeHouse/Collider/Object_4/BoxCollider2D
+    6100008: _MapPrfab/TreeHouse/Collider/Object_5/BoxCollider2D
+    6100010: _MapPrfab/TreeHouse/Collider/Object_6/BoxCollider2D
+    6100012: _MapPrfab/TreeHouse/Collider/Object_10/BoxCollider2D
+    6100014: _MapPrfab/TreeHouse/Collider/Object_11/BoxCollider2D
+    6100016: _MapPrfab/TreeHouse/Collider/Object_12/BoxCollider2D
+    6100018: _MapPrfab/TreeHouse/Collider/Object_13/BoxCollider2D
+    6100020: _MapPrfab/TreeHouse/Collider/Object_14/BoxCollider2D
+    6100022: _MapPrfab/TreeHouse/Collider/Object_15/BoxCollider2D
+    6100024: _MapPrfab/TreeHouse/Collider/Object_16/BoxCollider2D
+    11400000: _MapPrfab/TreeHouse/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/TreeHouse/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/TreeHouse/Collider/MonoBehaviour-SuperTiled2Unity.SuperObjectLayer
+    11400006: _MapPrfab/TreeHouse/Collider/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _superAsset
+    11400010: _MapPrfab/TreeHouse/Ground/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400012: _MapPrfab/TreeHouse/Ground/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400014: _MapPrfab/TreeHouse/Misc/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400016: _MapPrfab/TreeHouse/Misc/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400018: _MapPrfab/TreeHouse/MiscUp/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400020: _MapPrfab/TreeHouse/MiscUp/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400022: _MapPrfab/TreeHouse/Collider/Object_1/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400024: _MapPrfab/TreeHouse/Collider/Object_1/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400026: _MapPrfab/TreeHouse/Collider/Object_1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400028: _MapPrfab/TreeHouse/Collider/Object_2/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400030: _MapPrfab/TreeHouse/Collider/Object_2/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400032: _MapPrfab/TreeHouse/Collider/Object_2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400034: _MapPrfab/TreeHouse/Collider/Object_3/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400036: _MapPrfab/TreeHouse/Collider/Object_3/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400038: _MapPrfab/TreeHouse/Collider/Object_3/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400040: _MapPrfab/TreeHouse/Collider/Object_4/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400042: _MapPrfab/TreeHouse/Collider/Object_4/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400044: _MapPrfab/TreeHouse/Collider/Object_4/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400046: _MapPrfab/TreeHouse/Collider/Object_5/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400048: _MapPrfab/TreeHouse/Collider/Object_5/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400050: _MapPrfab/TreeHouse/Collider/Object_5/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400052: _MapPrfab/TreeHouse/Collider/Object_6/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400054: _MapPrfab/TreeHouse/Collider/Object_6/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400056: _MapPrfab/TreeHouse/Collider/Object_6/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400058: _MapPrfab/TreeHouse/Collider/Object_7/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400060: _MapPrfab/TreeHouse/Collider/Object_7/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400062: _MapPrfab/TreeHouse/Collider/Object_7/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400064: _MapPrfab/TreeHouse/Collider/Object_8/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400066: _MapPrfab/TreeHouse/Collider/Object_8/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400068: _MapPrfab/TreeHouse/Collider/Object_8/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400070: _MapPrfab/TreeHouse/Collider/Object_9/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400072: _MapPrfab/TreeHouse/Collider/Object_9/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400074: _MapPrfab/TreeHouse/Collider/Object_9/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400076: _MapPrfab/TreeHouse/Collider/Object_10/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400078: _MapPrfab/TreeHouse/Collider/Object_10/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400080: _MapPrfab/TreeHouse/Collider/Object_10/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400082: _MapPrfab/TreeHouse/Collider/Object_11/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400084: _MapPrfab/TreeHouse/Collider/Object_11/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400086: _MapPrfab/TreeHouse/Collider/Object_11/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400088: _MapPrfab/TreeHouse/Collider/Object_12/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400090: _MapPrfab/TreeHouse/Collider/Object_12/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400092: _MapPrfab/TreeHouse/Collider/Object_12/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400094: _MapPrfab/TreeHouse/Collider/Object_13/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400096: _MapPrfab/TreeHouse/Collider/Object_13/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400098: _MapPrfab/TreeHouse/Collider/Object_13/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400100: _MapPrfab/TreeHouse/Collider/Object_14/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400102: _MapPrfab/TreeHouse/Collider/Object_14/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400104: _MapPrfab/TreeHouse/Collider/Object_14/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400106: _MapPrfab/TreeHouse/Collider/Object_15/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400108: _MapPrfab/TreeHouse/Collider/Object_15/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400110: _MapPrfab/TreeHouse/Collider/Object_15/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400112: _MapPrfab/TreeHouse/Collider/Object_16/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400114: _MapPrfab/TreeHouse/Collider/Object_16/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400116: _MapPrfab/TreeHouse/Collider/Object_16/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/TreeHouse/Grid
+    3664157343022684178: _MapPrfab/TreeHouse/Ground/Chunk (-16,-16)/TilemapRenderer
+    3664157343022684180: _MapPrfab/TreeHouse/Ground/Chunk (-16,0)/TilemapRenderer
+    3664157343022684182: _MapPrfab/TreeHouse/Ground/Chunk (-16,16)/TilemapRenderer
+    3664157343022684184: _MapPrfab/TreeHouse/Ground/Chunk (0,-16)/TilemapRenderer
+    3664157343022684186: _MapPrfab/TreeHouse/Ground/Chunk (0,0)/TilemapRenderer
+    3664157343022684188: _MapPrfab/TreeHouse/Ground/Chunk (0,16)/TilemapRenderer
+    3664157343022684190: _MapPrfab/TreeHouse/Ground/Chunk (16,-16)/TilemapRenderer
+    3664157343022684192: _MapPrfab/TreeHouse/Ground/Chunk (16,0)/TilemapRenderer
+    3664157343022684194: _MapPrfab/TreeHouse/Ground/Chunk (16,16)/TilemapRenderer
+    3664157343022684196: _MapPrfab/TreeHouse/Misc/Chunk (-16,-16)/TilemapRenderer
+    3664157343022684198: _MapPrfab/TreeHouse/Misc/Chunk (-16,0)/TilemapRenderer
+    3664157343022684200: _MapPrfab/TreeHouse/Misc/Chunk (-16,16)/TilemapRenderer
+    3664157343022684202: _MapPrfab/TreeHouse/Misc/Chunk (0,-16)/TilemapRenderer
+    3664157343022684204: _MapPrfab/TreeHouse/Misc/Chunk (0,0)/TilemapRenderer
+    3664157343022684206: _MapPrfab/TreeHouse/Misc/Chunk (16,-16)/TilemapRenderer
+    3664157343022684208: _MapPrfab/TreeHouse/Misc/Chunk (16,0)/TilemapRenderer
+    3664157343022684210: _MapPrfab/TreeHouse/Misc/Chunk (16,16)/TilemapRenderer
+    3664157343022684212: _MapPrfab/TreeHouse/MiscUp/Chunk (-16,0)/TilemapRenderer
+    3664157343022684214: _MapPrfab/TreeHouse/MiscUp/Chunk (-16,16)/TilemapRenderer
+    3664157343022684216: _MapPrfab/TreeHouse/MiscUp/Chunk (0,-16)/TilemapRenderer
+    3664157343022684218: _MapPrfab/TreeHouse/MiscUp/Chunk (0,0)/TilemapRenderer
+    8195094279510102544: _MapPrfab/TreeHouse/Ground/Chunk (-16,-16)/Tilemap
+    8195094279510102546: _MapPrfab/TreeHouse/Ground/Chunk (-16,0)/Tilemap
+    8195094279510102548: _MapPrfab/TreeHouse/Ground/Chunk (-16,16)/Tilemap
+    8195094279510102550: _MapPrfab/TreeHouse/Ground/Chunk (0,-16)/Tilemap
+    8195094279510102552: _MapPrfab/TreeHouse/Ground/Chunk (0,0)/Tilemap
+    8195094279510102554: _MapPrfab/TreeHouse/Ground/Chunk (0,16)/Tilemap
+    8195094279510102556: _MapPrfab/TreeHouse/Ground/Chunk (16,-16)/Tilemap
+    8195094279510102558: _MapPrfab/TreeHouse/Ground/Chunk (16,0)/Tilemap
+    8195094279510102560: _MapPrfab/TreeHouse/Ground/Chunk (16,16)/Tilemap
+    8195094279510102562: _MapPrfab/TreeHouse/Misc/Chunk (-16,-16)/Tilemap
+    8195094279510102564: _MapPrfab/TreeHouse/Misc/Chunk (-16,0)/Tilemap
+    8195094279510102566: _MapPrfab/TreeHouse/Misc/Chunk (-16,16)/Tilemap
+    8195094279510102568: _MapPrfab/TreeHouse/Misc/Chunk (0,-16)/Tilemap
+    8195094279510102570: _MapPrfab/TreeHouse/Misc/Chunk (0,0)/Tilemap
+    8195094279510102572: _MapPrfab/TreeHouse/Misc/Chunk (16,-16)/Tilemap
+    8195094279510102574: _MapPrfab/TreeHouse/Misc/Chunk (16,0)/Tilemap
+    8195094279510102576: _MapPrfab/TreeHouse/Misc/Chunk (16,16)/Tilemap
+    8195094279510102578: _MapPrfab/TreeHouse/MiscUp/Chunk (-16,0)/Tilemap
+    8195094279510102580: _MapPrfab/TreeHouse/MiscUp/Chunk (-16,16)/Tilemap
+    8195094279510102582: _MapPrfab/TreeHouse/MiscUp/Chunk (0,-16)/Tilemap
+    8195094279510102584: _MapPrfab/TreeHouse/MiscUp/Chunk (0,0)/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

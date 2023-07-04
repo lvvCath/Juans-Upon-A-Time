@@ -1,0 +1,61 @@
+[title=cutscene01-treehouse-begin]
+???: Bago ang lahat, ipapakilala ko ang aking sarili. 
+???: Ako pala si Andreas. Ako'y isang.... 
+Andreas: Salamangkero-
+Juan: Sa-Sala ano?!
+Andreas: Salamangkero.
+Andreas: Ikaw? 
+Andreas: Ano ang pangalan na ibinigay saiyo ng iyong mga magulang?
+Juan: Juan. 
+Andreas: Juan paano ka naparito?
+Juan:  Hindi ko po alam. 
+Juan: Nasa bahay ako nanonood ng T.V. 
+Juan:tapos may narinig ako sa bakod namin tapos may nakita akong ibon. 
+Juan: Isang Agila, nagsasalita! 
+Juan: Hindi ko alam pero natakot ako tapos hahampasin ko na sana ng pala tapos! 
+Juan: Tapos.... tapos ito. 
+Andreas: ...
+Juan: ...Manong Andreas?
+Andreas: Ah! Pagpaumanhin, hindi ako nakakapagpahinga ng maayos 
+Andreas: nitong mga nalipas na araw. 
+Andreas: Sumakatuwid, ikaw ay kakaiba sa mga nakita ko sa mga tao dito. 
+Andreas:Iyon ay iyong nasa palagay, tama?
+Juan: (Hindi kaya kanyang ibig-sabihin...!) 
+Andreas: Ikaw ay ipinadala pabalik sa nakaraan. 
+Juan: Hindi maaari...
+Andreas: O, iho wag ka muna umiyak. 
+Andreas: Kaya kitang tulungan bumalik sa iyong pinanggalingan.
+Juan: Talaga ho?!
+Andreas: Ngunit hindi basta basta makakauwi ka sa iyong pinanggalingan. 
+Andreas: Ika'y aking matutulungan kapalit ng pagtupad mo sa aking hangarin. 
+Andreas: Kailangan mo makuha ang gintong kabibe na nasa kamay ni Lapu-Lapu 
+Andreas: ngunit siya lamang ang nakakaalam ng pamamalagi nito.
+Andreas: Kung makuha mo ito ay maibabalik kita sa iyong pinagmulan.
+Juan: Pero pano ko magagawa iyon Andreas? 
+Juan: Isa lang akong bata! 
+Andreas: Huwag kang magalala. 
+Andreas: Taglay ko ang kapangyarihan na makakatulong saiyo 
+Andreas: upang protektahan ka sa iyong paglalakbay. 
+Andreas: Ngayon, ika'y aking papipiliin. 
+Andreas: Tatanggapin mo ba ang iyong tadhana 
+Andreas: o ika'y mananatili na lamang sa nakaraan habang-buhay?
+Juan: ... Wala naman akong ibang pagpipilian diba?
+Andreas: *nods*
+Juan: Tatanggapin ko na po.
+Andreas: Kagalak-galak na kasagutan! 
+Andreas: Iho, dito na magsisimula and iyong paglalakbay. 
+Andreas: Ang unang reliquias ay isang gintong kabibe na hawak ni Lapu-Lapu. 
+Andreas: Ika'y huwag mangamba 
+Andreas: sapagkat ipagkakaloob ko sa iyo ang isang ropa at sandata. 
+Andreas: Handa kana bang pasukin ang pinto patungo sa Cebu 
+Andreas: upang matagpuan ang Mactan?
+Juan: Handa na po ako.
+Andreas: Kung sa gayon sumunod ka saakin at nang makapagbihis ka na
+Andreas: at ihahatid na din kita sa labas.
+[title=cutscene01-treehouse-end]
+
+[title=cutscene02-Outsidetreehouse-begin]
+Juan: Salamat Andreas sa iyong tulong.
+Juan: Sisiguraduhin kong makukuha ko ang unang reliquias.
+Andreas: Gabayan ka nawa ng nakatataas at nawa'y pagpalain ka sa iyong paglalakbay.
+[title=cutscene02-Outsidetreehouse-end]

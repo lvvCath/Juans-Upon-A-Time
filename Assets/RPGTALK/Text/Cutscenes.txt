@@ -1,0 +1,166 @@
+[title=cutscene01-Seashore-begin]
+Humabon: Kami ay lubos na nagpapasalamat 
+Humabon: sapagkat kami'y inyong pinagsampalatya sa Katoliko. 
+Humabon: Sa aking pakiramdam ay binigyan ako ng lakas ng nakatataas 
+Humabon: sa pamamagitan ng Krus na inyong iniregalo saakin. 
+Humabon: Pagpalain nawa ako ng Panginoon.
+Magellan: Hahahahaha De nada!
+Enrique: Walang anuman Raja Humabon. 
+Enrique: Simula sa araw na ito ay idinideklara namin 
+Enrique: na ang lupain na ito ay pagmamay-ari ng Espanya.
+Humabon: Lubos ko itong ikinagagalak 
+Humabon: kaya aking pinatawag ang mga datu sa malalapit na isla sa Sugbu 
+Humabon: upang kayo ay bigyan ng mga kagamitan na magagamit ninyo sa inyong paglalakbay. 
+Humabon: Ito ay lubos naming pinagpapasalamat dahil sa inyong kabutihang loob.
+[title=cutscene01-Seashore-end]
+
+[title=cutscene02-Seashore-begin]
+Ahmad: Maraming salamat Juan.
+Ahmad: Tunay mong pinatunayan ang iyong kahusayan at katapatan sa kampo namin.
+Juan: Ginagawa ko lamang ho ito upang makauw- 
+Juan: este upang paglingkuran ang ating pinuno at ang buong kampo.
+Ahmad: dahil dyan ay maari ka nang makapunta ng Mactan ayon sa iyong nais.
+Ahmad: ihahatid ka ni Mang Tonio patungong Mactan upang iyong makilala si Lapu Lapu.
+[title=cutscene02-Seashore-end]
+
+[title=cutscene03-Seashore-begin]
+Ahmad: Tamang Tama nandito na si Mang Tonio
+Mang Tonio: Binabati kita Juan!
+Mang Tonio: sa matagumpay mong pakikipaglaban sa Kapre na nagnakaw sa aking Libirito.
+Mang Tonio: Malaki ang aking pasasalamat sa iyo, sapagkat ito ay napakahalaga saakin.
+Juan: Walang anuman, Mang Tonio.
+Mang Tonio: O siya... tayo na't ihahatid kita patungong Mactan.
+[title=cutscene03-Seashore-end]
+
+[title=cutscene04-Tent01-begin]
+Humabon: !... Magellan! Anong maari kong mapaglingkod sa iyong pagdating?
+Enrique: Dumating kami upang kamustahin ang seremoniya. 
+Enrique: Ang mga pagsasayos ba ay naidaos na?
+Humabon: Aking mahahatid ang isang mapanglaw na abiso ukol diyan. 
+Humabon: Isa sa mga Datu ay tumanggi upang magbigay alay 
+Humabon: habang ang mga namumunong Datu ng mga isla sa tabi ng Sugbu 
+Humabon: ay sumunod maliban sakanya.
+Humabon: Sa kabilang banda, may ipanukala ako sa pagkabagabag na ito.
+Enrique: At iyon ay?
+Humabon: Upang masunod ang Datu ng Mactan ay itanim sa isipan ng mga taga-Mactan 
+Humabon: ang pangamba sa mga hindi sumusunod sa utos ng hari. 
+Humabon: Digmaan. 
+Humabon: Ito lamang ang tanging paraan upang sumuko si Lapu-Lapu sa atin.
+[title=cutscene04-Tent01-end]
+
+[title=cutscene05-Tent01-begin]
+Zula: Humabon. Alam mo ba kung gaano kahirap ang aking mga pinagdaanan 
+Zula: sa Datu na si Lapu-Lapu. 
+Zula: Nais kong makaragdag ng mga tauhan sa labanan mahahayag sa Mactan.
+Humabon: At aming karagdagan pa ang aming mga kawal.
+Magellan: He tomado mi decision.
+Enrique: Malinaw ang desisiyon ni Magellan.
+Enrique: Ang kasasapitan ng mga susunod sa hari ng Espanya,
+Enrique: at kilalanin ang Kristiyanong hari bilang kanilang pinakadakila, 
+Enrique: at ibigay sa amin ang kanilang parangal, siya ay magiging kaibigan. 
+Enrique: Ngunit kung ang kanilang kagustuhan ay magkasalungat, 
+Enrique: dapat silang maghintay upang makita kung paano sumugat ang aming mga sandata.
+Humabon: Malinaw ang sinabi ni Magellan. 
+Humabon: Ipasabi ang mensahe ng hari sa Datu ng Mactan na si Lapu-Lapu.
+Alipin: Ito'y masusunod. 
+Alipin: Kapahamakan ang magiging kapalaran 
+Alipin: nang hindi susunod sa kagustuhan ng hari ng Spagnia.
+[title=cutscene05-Tent01-end]
+
+[title=cutscene06-Ocean-begin]
+Magellan: My fellow troops, 
+Magellan: we must prepare for a battle at Mactan. 
+Magellan: I am confident our forces alone can make the Mactanians yield 
+Magellan: and make their chief bow down to us.
+Kawal: YES!!!
+[title=cutscene06-Ocean-end]
+
+[title=cutscene07-Ocean-begin]
+Magellan: ! What is that noise?
+Maguayan: Ikaw mga mahuyang.
+Maguayan: Sa tingin niyo matatalo ninyo ang pwersa ng mga taga-Mactan 
+Maguayan: sa mahihina niyong sakbat?
+Magellan: What is this nonsense?! 
+Magellan: I don't believe this. What is happening?! 
+Magellan: Enrique! What is he talking about?
+Enrique: It seems he is mocking our power in defeating the locals.
+Magellan: Demente! 
+Magellan: You may be a scary looking monster, but I question your intelligence. 
+Magellan: Can't you see? We have advanced weapons and armors which the locals doesn't have. 
+Magellan: What other things you think can overthrow them besides this?
+Maguayan: Ang batalya na magaganap sa Mactan ay napapalibutan ng agwa. 
+Maguayan: Maaari ko kayong bigyan ng kapangyarihan at kakayahan 
+Maguayan: na wala pang tao sa lupaing ito ay nakakamtan. 
+Maguayan: Mabibigyan kita ng bagong anyo at higit na lakas 
+Maguayan: upang mapatumba ang inyong kalaban sa isang iglap.
+Magellan: Increible! 
+Magellan: No doubt a win-win situation! 
+Magellan: My friend, I think we took a wrong turn introducing oursleves. 
+Magellan: I am Magellan and I accept your proposition.
+Maguayan: Maguayan.
+Maguayan: Tandaan mo ang aking pangalan hanggang sa huli mong hininga.
+[title=cutscene07-Ocean-end]
+
+[title=cutscene08-Cave-begin]
+Lapu-Lapu: Bakit ka naparito?
+Juan: Ako ay may tungkulin na ibingay sakin ni Andreas.
+Juan: Kung kaya't kailangan ko ang iyong tulong dahil hawak niyo ang ginintuang kabibe.
+[title=cutscene08-Cave-end]
+
+[title=cutscene080-Cave-begin]
+Alipin: Datu! May hatid ako na masamang balita. 
+Alipin: Ang mga puting dayuhan ay nagdeklara ng digmaan laban satin!
+Lapu-Lapu: Dili katuohan! 
+Lapu-Lapu: Sabihan ang mga Espanyol tayo ay di magpapatalo sa kanilang sandata 
+Lapu-Lapu: sapagkat ang atin ay pinatibay gamit ang apoy. 
+Lapu-Lapu: Sila ay paghintayin ng ating mga tauhan hanggang umaga upang sumugod  
+Lapu-Lapu: ang mga Espanyol nang gayon ay dumami ang ating mga kawal.
+Alipin: Masusunod Datu Lapu-Lapu.
+Lapu-Lapu: Juan, ikaw ay manatili muna dito sapagkat kailangan ko lumisan sa ngayon.
+[title=cutscene080-Cave-end]
+
+[title=cutscene09-Cave-begin]
+Juan: Sandali lamang Datu Lapu-Lapu! 
+Juan: Ako ay sasama at tutulungan ko kayo sa laban niyo.
+Lapu-Lapu: Inutil! Huwag ka na makielam! 
+Lapu-Lapu: Ang laban na ito ay hindi isang laro. 
+Lapu-Lapu: Hindi mo kakayanin. 
+Lapu-Lapu: Wala kang sapat na kaalaman sa mga dapat gawin sa isang digmaan. 
+Lapu-Lapu: Dito ka lang at huwag kang susunod. 
+[title=cutscene09-Cave-end]
+
+[title=cutscene10-Cave-begin]
+Juan: Kailangan ko lumaban para makabalik ako sa aking tahanan at panahon. 
+Juan: Kaunting tiis nalang makakauwi na ko.
+[title=cutscene10-Cave-end]
+
+[title=cutscene11-Cave-begin]
+Mang Tonio: Naidala ko na ang iyong kakailanganin Datu Lapu-Lapu.
+Lapu-Lapu: Lubos kong pinapasalamatan ang iyong kabutihan. 
+Lapu-Lapu: At sino itong kasama ninyo?
+Juan: Ang ngalan ko ay si Juan. Nandito ako upang humingi sainyo ng tulong 
+Juan: at ikaw lamang maaaring makapuna nito.
+Lapu-Lapu: ... Nakikita ko sa dalawa mong mata ang katatagan mo 
+Lapu-Lapu: habang ang mga kamay mo ay nanginginig. Ako'y hanga sa iyong katapangan. 
+Lapu-Lapu: Tayo ay pumasok muna at mag-usap.
+[title=cutscene11-Cave-end]
+
+[title=cutscene12-Mactan-begin]
+Lapu-Lapu: Salamat Juan. 
+Lapu-Lapu: Namangha ako sa pinakita mong lakas at galing sa pakikipaglaban sa mga Espanyol. 
+Lapu-Lapu: Kung hindi dahil saiyo ay natalo na kami sa digmaan. 
+Lapu-Lapu: Pinagkakatiwala ko na saiyo ang aking gintuang kabibe.
+Juan: Ikinagagalak ko ang pagtulong sainyo, Lapu-Lapu. 
+Juan: Makakauwi na rin ako sa wakas. 
+Juan: Salamat.
+Lapu-Lapu: Nawa'y pagpalain ka sa inyong paglalakbay, Juan.
+[title=cutscene12-Mactan-end]
+
+[title=cutscene13-Andreas-begin]
+Andreas: BWAHAHAHAHAHA
+Juan: Mang Andreas...? 
+Juan: Ano ito? 
+Juan: Hindi ba makakauwi na ako?
+Andreas: Hindi mo pa ba alam? 
+Andreas: Ginamit lamang kita! Wala ka nang silbi sakin.
+[title=cutscene13-Andreas-end]

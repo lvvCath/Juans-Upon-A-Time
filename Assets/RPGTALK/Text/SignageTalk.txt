@@ -1,0 +1,22 @@
+
+[title=tutorial01-sign-begin]
+You can freely move your character, anywhere in the game by just using the joystick controller  [sprite=2]found on the bottom left side of the Screen.
+To interact touch this button   [sprite=0] 
+And this  [sprite=1]  button is used to attack.
+[title=tutorial01-sign-end]
+
+[title=tutorial02-sign-begin]
+Be aware that in the game, there will be battle scenes where it could lower your health.
+But worry not! \n You can Defend Yourself! \n Remember when Andreas gave you your new clothes with weapon?
+You can use it with your battle against your enemies!
+Just click this  [sprite=1]  button to attack.
+[title=tutorial02-sign-end]
+
+[title=tutorial03-sign-begin]
+Goodluck on your Adventure
+[title=tutorial03-sign-end]
+
+[title=sign01-begin]
+Seashore
+[title=sign01-end]
+

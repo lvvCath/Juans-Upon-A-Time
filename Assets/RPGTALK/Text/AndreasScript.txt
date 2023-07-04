@@ -1,0 +1,10 @@
+[title=Andreas_Start]
+Andreas: Aba aba tila naliligaw ang binatang ito? Wari ko'y hindi ka taga rito. 
+Andreas: Ang istilo ng iyong pananamit ay tila taga ibang ibayo. Nawawala ka ba?
+Juan: Mawalang galang po. Di ko po alam yung daan dito. 
+Juan: May alam po ba kayong lugar kung saan may signal ng phone?
+Andreas: Ako’y nangangamba sapangka’t hindi ko maintindihan ang iyong winiwika. 
+Juan: Ano ho?! Nasan po tayo ngayon?!
+Andreas: Tayo’y mag-usap sa loob. 
+Andreas: Ipapakilala ko ang aking sarili at mabawasan ang iyong pagkalito.
+[title=Andreas_End]

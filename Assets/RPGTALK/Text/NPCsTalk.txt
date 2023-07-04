@@ -1,0 +1,48 @@
+
+[title=NPC-Sangoku-begin]
+Sangoku: Viva Espanya!
+[title=NPC-Sangoku-end]
+
+[title=NPC-Ahmad-begin]
+Juan: Mawalang galang po, ako po ay may mahalagang tungkulin. 
+Juan: Maari niyo po ba akong tulungan?
+Ahmad: Aba aba, sino ka ba at pano ka naparito? 
+Juan: Ako po si Juan.
+Juan: Ang aking tungkulin ay dalawin si Datu Lapu-Lapu. 
+Juan: Narating niyo na po ba Mactan?
+Ahmad: Mactan?! 
+Ahmad: Nais mong makarating doon upang dalawin si Lapu-Lapu? 
+Ahmad: Ako ay maraming ginagawa sa kasalukuyan kaya wala akong panahon upang gabayin ka. 
+Ahmad: Anong kailangan mo sa Datu ng Mactan?
+Juan: Isang malubhang pangyayari ang magaganap na kinakailangan matugunan 
+Juan: ni Datu Lapu-Lapu.
+Ahmad: At ang Datu ng Mactan lamang makakatustos sa pangangailangan na iyon?
+Juan: Oho.
+Ahmad: May pangangailangan din akong kinakailangang matugunan. 
+Ahmad: May mananambal na humihingi sakin ng libro upang maidala niya ito 
+Ahmad: sa Datu ng Mactan at magbigay lunas sa mga sugat nito. 
+Ahmad: Matagal ko na natamo ang libro ngunit mayroong mabangis na espirito sa daanan 
+Ahmad: at wala sa kapangyarihan ko labanan ito. 
+Ahmad: Kunin mo ang "Libirito" sa gubat "Balete"
+Ahmad: matatagpuan mo ito sa dulo ng gubat.
+Ahmad: at ibigay mo ito sa mananambal na si "Mang Tonio". 
+Ahmad: Kaya ka niyang ihatid sa Mactan.
+[title=NPC-Ahmad-end]
+
+[title=NPC-Tonio-begin]
+Mang Tonio: Juan
+[title=NPC-Tonio-end]
+
+[title=NPC-Salud-begin]
+Salud: Pangahas! 
+Salud: wala kang pahintulot na pasukin an tirahan ng aming pinuno.
+[title=NPC-Salud-end]
+
+[title=NPC-Atahualpa-begin]
+Atahualpa: Dum Bum Durum!
+[title=NPC-Atahualpa-end]
+
+[title=NPC-Manases-begin]
+Manases: Grrrrrrr...
+[title=NPC-Manases-end]
+

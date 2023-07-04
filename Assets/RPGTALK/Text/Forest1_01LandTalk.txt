@@ -1,0 +1,17 @@
+[title=FirstDialogue-Start]
+Juan: Nasaan na Ako...
+Juan: Saan ako dinala ng nagsasalitang ibon?
+Juan: May tao kaya dito na maaari kong hingan ng tulong.
+[title=FirstDialogue-End]
+
+
+[title=cutscene1-begin]
+???: Aba aba tila naliligaw ang binatang ito? Wari ko'y hindi ka taga rito.
+???: Ang istilo ng iyong pananamit ay tila taga ibang ibayo. Nawawala ka ba?
+Juan: Mawalang galang po. Di ko po alam yung daan dito. 
+Juan: May alam po ba kayong lugar kung saan may signal ng phone?
+???: Ako'y nangangamba sapangka't hindi ko maintindihan ang iyong winiwika. 
+Juan: Ano ho?! Nasaan po tayo ngayon?!
+???: Tayo'y mag-usap sa loob. 
+???: Ipapakilala ko ang aking sarili at mabawasan ang iyong pagkalito.
+[title=cutscene1-end]

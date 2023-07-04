@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: fce379ec192fa3940a363d2494eb702e
+ScriptedImporter:
+  fileIDToRecycleName:
+    2800000: Atlas_house external_1
+    11400000: _TilesetScriptObject
+    11400002: _superAsset
+    11400004: Tile_house external_1
+    11400006: Tile_house external_2
+    11400008: Tile_house external_3
+    11400010: Tile_house external_4
+    11400012: Tile_house external_5
+    11400014: Tile_house external_6
+    11400016: Tile_house external_7
+    11400018: Tile_house external_8
+    11400020: Tile_house external_9
+    11400022: Tile_house external_10
+    11400024: Tile_house external_11
+    11400026: Tile_house external_12
+    11400028: Tile_house external_13
+    11400030: Tile_house external_14
+    11400032: Tile_house external_15
+    11400034: Tile_house external_16
+    11400036: Tile_house external_17
+    11400038: Tile_house external_18
+    11400040: Tile_house external_19
+    11400042: Tile_house external_20
+    11400044: Tile_house external_21
+    11400046: Tile_house external_22
+    11400048: Tile_house external_23
+    11400050: Tile_house external_24
+    11400052: Tile_house external_25
+    11400054: Tile_house external_26
+    11400056: Tile_house external_27
+    11400058: Tile_house external_28
+    11400060: Tile_house external_29
+    11400062: Tile_house external_30
+    11400064: Tile_house external_31
+    11400066: Tile_house external_32
+    11400068: Tile_house external_33
+    11400070: Tile_house external_34
+    11400072: Tile_house external_35
+    11400074: Tile_house external_36
+    11400076: Tile_house external_37
+    11400078: Tile_house external_38
+    11400080: Tile_house external_39
+    11400082: Tile_house external_40
+    11400084: Tile_house external_41
+    11400086: Tile_house external_42
+    11400088: Tile_house external_43
+    11400090: Tile_house external_44
+    11400092: Tile_house external_45
+    11400094: Tile_house external_46
+    11400096: Tile_house external_47
+    11400098: Tile_house external_48
+    11400100: Tile_house external_49
+    11400102: Tile_house external_50
+    11400104: Tile_house external_51
+    11400106: Tile_house external_52
+    11400108: Tile_house external_53
+    11400110: Tile_house external_54
+    11400112: Tile_house external_55
+    11400114: Tile_house external_56
+    11400116: Tile_house external_57
+    11400118: Tile_house external_58
+    11400120: Tile_house external_59
+    11400122: Tile_house external_60
+    11400124: Tile_house external_61
+    11400126: Tile_house external_62
+    11400128: Tile_house external_63
+    21300000: Sprite_house external_1
+    21300002: Sprite_house external_2
+    21300004: Sprite_house external_3
+    21300006: Sprite_house external_4
+    21300008: Sprite_house external_5
+    21300010: Sprite_house external_6
+    21300012: Sprite_house external_7
+    21300014: Sprite_house external_8
+    21300016: Sprite_house external_9
+    21300018: Sprite_house external_10
+    21300020: Sprite_house external_11
+    21300022: Sprite_house external_12
+    21300024: Sprite_house external_13
+    21300026: Sprite_house external_14
+    21300028: Sprite_house external_15
+    21300030: Sprite_house external_16
+    21300032: Sprite_house external_17
+    21300034: Sprite_house external_18
+    21300036: Sprite_house external_19
+    21300038: Sprite_house external_20
+    21300040: Sprite_house external_21
+    21300042: Sprite_house external_22
+    21300044: Sprite_house external_23
+    21300046: Sprite_house external_24
+    21300048: Sprite_house external_25
+    21300050: Sprite_house external_26
+    21300052: Sprite_house external_27
+    21300054: Sprite_house external_28
+    21300056: Sprite_house external_29
+    21300058: Sprite_house external_30
+    21300060: Sprite_house external_31
+    21300062: Sprite_house external_32
+    21300064: Sprite_house external_33
+    21300066: Sprite_house external_34
+    21300068: Sprite_house external_35
+    21300070: Sprite_house external_36
+    21300072: Sprite_house external_37
+    21300074: Sprite_house external_38
+    21300076: Sprite_house external_39
+    21300078: Sprite_house external_40
+    21300080: Sprite_house external_41
+    21300082: Sprite_house external_42
+    21300084: Sprite_house external_43
+    21300086: Sprite_house external_44
+    21300088: Sprite_house external_45
+    21300090: Sprite_house external_46
+    21300092: Sprite_house external_47
+    21300094: Sprite_house external_48
+    21300096: Sprite_house external_49
+    21300098: Sprite_house external_50
+    21300100: Sprite_house external_51
+    21300102: Sprite_house external_52
+    21300104: Sprite_house external_53
+    21300106: Sprite_house external_54
+    21300108: Sprite_house external_55
+    21300110: Sprite_house external_56
+    21300112: Sprite_house external_57
+    21300114: Sprite_house external_58
+    21300116: Sprite_house external_59
+    21300118: Sprite_house external_60
+    21300120: Sprite_house external_61
+    21300122: Sprite_house external_62
+    21300124: Sprite_house external_63
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 129
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

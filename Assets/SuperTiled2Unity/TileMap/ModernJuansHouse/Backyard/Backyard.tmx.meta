@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 77006ce96820595489de115e030b03d1
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/Backyard
+    100002: _MapPrfab/Backyard/Object Layer 1
+    100004: _MapPrfab/Backyard/Bound
+    100006: _MapPrfab/Backyard/Grass
+    100008: _MapPrfab/Backyard/GrassTop
+    100010: _MapPrfab/Backyard/Ground
+    100012: _MapPrfab/Backyard/GroundTop
+    100014: _MapPrfab/Backyard/Object
+    100016: _MapPrfab/Backyard/Roof
+    100018: _MapPrfab/Backyard/Tile Layer 5
+    100020: _MapPrfab/Backyard/Walls
+    100022: _MapPrfab/Backyard/Object Layer 1/Object_1
+    100024: _MapPrfab/Backyard/Object Layer 1/Object_2
+    100026: _MapPrfab/Backyard/Object Layer 1/Object_3
+    100028: _MapPrfab/Backyard/Object Layer 1/Object_4
+    100030: _MapPrfab/Backyard/Object Layer 1/Object_21
+    100032: _MapPrfab/Backyard/Object Layer 1/Object_22
+    100034: _MapPrfab/Backyard/Object Layer 1/Object_23
+    100036: _MapPrfab/Backyard/Object Layer 1/Object_8
+    100038: _MapPrfab/Backyard/Object Layer 1/Object_24
+    100040: _MapPrfab/Backyard/Object Layer 1/Object_25
+    100044: _MapPrfab/Backyard/Enter
+    100046: _MapPrfab/Backyard/Enter/Enter
+    100102: _MapPrfab/Backyard/Object Layer 1/Object_26
+    100104: _MapPrfab/Backyard/Object Layer 1/Object_27
+    100106: _MapPrfab/Backyard/Object Layer 1/Object_28
+    100108: _MapPrfab/Backyard/Object Layer 1/Object_29
+    400000: _MapPrfab/Backyard/Transform
+    400002: _MapPrfab/Backyard/Object Layer 1/Transform
+    400004: _MapPrfab/Backyard/Bound/Transform
+    400006: _MapPrfab/Backyard/Grass/Transform
+    400008: _MapPrfab/Backyard/GrassTop/Transform
+    400010: _MapPrfab/Backyard/Ground/Transform
+    400012: _MapPrfab/Backyard/GroundTop/Transform
+    400014: _MapPrfab/Backyard/Object/Transform
+    400016: _MapPrfab/Backyard/Roof/Transform
+    400018: _MapPrfab/Backyard/Tile Layer 5/Transform
+    400020: _MapPrfab/Backyard/Walls/Transform
+    400022: _MapPrfab/Backyard/Object Layer 1/Object_1/Transform
+    400024: _MapPrfab/Backyard/Object Layer 1/Object_2/Transform
+    400026: _MapPrfab/Backyard/Object Layer 1/Object_3/Transform
+    400028: _MapPrfab/Backyard/Object Layer 1/Object_4/Transform
+    400030: _MapPrfab/Backyard/Object Layer 1/Object_21/Transform
+    400032: _MapPrfab/Backyard/Object Layer 1/Object_22/Transform
+    400034: _MapPrfab/Backyard/Object Layer 1/Object_23/Transform
+    400036: _MapPrfab/Backyard/Object Layer 1/Object_8/Transform
+    400038: _MapPrfab/Backyard/Object Layer 1/Object_24/Transform
+    400040: _MapPrfab/Backyard/Object Layer 1/Object_25/Transform
+    400044: _MapPrfab/Backyard/Enter/Transform
+    400046: _MapPrfab/Backyard/Enter/Enter/Transform
+    400102: _MapPrfab/Backyard/Object Layer 1/Object_26/Transform
+    400104: _MapPrfab/Backyard/Object Layer 1/Object_27/Transform
+    400106: _MapPrfab/Backyard/Object Layer 1/Object_28/Transform
+    400108: _MapPrfab/Backyard/Object Layer 1/Object_29/Transform
+    6000000: _MapPrfab/Backyard/Object Layer 1/Object_25/PolygonCollider2D
+    6000002: _MapPrfab/Backyard/Object Layer 1/Object_8/PolygonCollider2D
+    6000004: _MapPrfab/Backyard/Object Layer 1/Object_29/PolygonCollider2D
+    6100000: _MapPrfab/Backyard/Object Layer 1/Object_1/BoxCollider2D
+    6100002: _MapPrfab/Backyard/Object Layer 1/Object_2/BoxCollider2D
+    6100004: _MapPrfab/Backyard/Object Layer 1/Object_3/BoxCollider2D
+    6100006: _MapPrfab/Backyard/Object Layer 1/Object_4/BoxCollider2D
+    6100008: _MapPrfab/Backyard/Object Layer 1/Object_21/BoxCollider2D
+    6100010: _MapPrfab/Backyard/Object Layer 1/Object_22/BoxCollider2D
+    6100012: _MapPrfab/Backyard/Object Layer 1/Object_23/BoxCollider2D
+    6100014: _MapPrfab/Backyard/Object Layer 1/Object_24/BoxCollider2D
+    6100016: _MapPrfab/Backyard/Enter/Enter/BoxCollider2D
+    6100018: _MapPrfab/Backyard/Object Layer 1/Object_26/BoxCollider2D
+    6100020: _MapPrfab/Backyard/Object Layer 1/Object_27/BoxCollider2D
+    6100022: _MapPrfab/Backyard/Object Layer 1/Object_28/BoxCollider2D
+    11400000: _MapPrfab/Backyard/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/Backyard/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/Backyard/Object Layer 1/MonoBehaviour-SuperTiled2Unity.SuperObjectLayer
+    11400006: _MapPrfab/Backyard/Object Layer 1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _superAsset
+    11400010: _MapPrfab/Backyard/Bound/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400012: _MapPrfab/Backyard/Bound/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400014: _MapPrfab/Backyard/Grass/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400016: _MapPrfab/Backyard/Grass/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400018: _MapPrfab/Backyard/GrassTop/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400020: _MapPrfab/Backyard/GrassTop/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400022: _MapPrfab/Backyard/Ground/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400024: _MapPrfab/Backyard/Ground/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400026: _MapPrfab/Backyard/GroundTop/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400028: _MapPrfab/Backyard/GroundTop/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400030: _MapPrfab/Backyard/Object/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400032: _MapPrfab/Backyard/Object/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400034: _MapPrfab/Backyard/Roof/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400036: _MapPrfab/Backyard/Roof/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400038: _MapPrfab/Backyard/Tile Layer 5/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400040: _MapPrfab/Backyard/Tile Layer 5/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400042: _MapPrfab/Backyard/Walls/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400044: _MapPrfab/Backyard/Walls/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400046: _MapPrfab/Backyard/Object Layer 1/Object_1/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400048: _MapPrfab/Backyard/Object Layer 1/Object_1/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400050: _MapPrfab/Backyard/Object Layer 1/Object_1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400052: _MapPrfab/Backyard/Object Layer 1/Object_2/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400054: _MapPrfab/Backyard/Object Layer 1/Object_2/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400056: _MapPrfab/Backyard/Object Layer 1/Object_2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400058: _MapPrfab/Backyard/Object Layer 1/Object_3/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400060: _MapPrfab/Backyard/Object Layer 1/Object_3/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400062: _MapPrfab/Backyard/Object Layer 1/Object_3/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400064: _MapPrfab/Backyard/Object Layer 1/Object_4/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400066: _MapPrfab/Backyard/Object Layer 1/Object_4/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400068: _MapPrfab/Backyard/Object Layer 1/Object_4/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400070: _MapPrfab/Backyard/Object Layer 1/Object_21/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400072: _MapPrfab/Backyard/Object Layer 1/Object_21/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400074: _MapPrfab/Backyard/Object Layer 1/Object_21/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400076: _MapPrfab/Backyard/Object Layer 1/Object_22/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400078: _MapPrfab/Backyard/Object Layer 1/Object_22/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400080: _MapPrfab/Backyard/Object Layer 1/Object_22/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400082: _MapPrfab/Backyard/Object Layer 1/Object_23/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400084: _MapPrfab/Backyard/Object Layer 1/Object_23/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400086: _MapPrfab/Backyard/Object Layer 1/Object_23/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400088: _MapPrfab/Backyard/Object Layer 1/Object_8/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400090: _MapPrfab/Backyard/Object Layer 1/Object_8/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400092: _MapPrfab/Backyard/Object Layer 1/Object_8/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400094: _MapPrfab/Backyard/Object Layer 1/Object_24/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400096: _MapPrfab/Backyard/Object Layer 1/Object_24/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400098: _MapPrfab/Backyard/Object Layer 1/Object_24/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400100: _MapPrfab/Backyard/Object Layer 1/Object_25/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400102: _MapPrfab/Backyard/Object Layer 1/Object_25/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400104: _MapPrfab/Backyard/Object Layer 1/Object_25/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400112: _MapPrfab/Backyard/Enter/MonoBehaviour-SuperTiled2Unity.SuperObjectLayer
+    11400114: _MapPrfab/Backyard/Enter/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400116: _MapPrfab/Backyard/Enter/Enter/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400118: _MapPrfab/Backyard/Enter/Enter/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400120: _MapPrfab/Backyard/Enter/Enter/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400180: _MapPrfab/Backyard/Object Layer 1/Object_26/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400182: _MapPrfab/Backyard/Object Layer 1/Object_26/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400184: _MapPrfab/Backyard/Object Layer 1/Object_26/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400186: _MapPrfab/Backyard/Object Layer 1/Object_27/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400188: _MapPrfab/Backyard/Object Layer 1/Object_27/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400190: _MapPrfab/Backyard/Object Layer 1/Object_27/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400192: _MapPrfab/Backyard/Object Layer 1/Object_28/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400194: _MapPrfab/Backyard/Object Layer 1/Object_28/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400196: _MapPrfab/Backyard/Object Layer 1/Object_28/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400198: _MapPrfab/Backyard/Object Layer 1/Object_29/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400200: _MapPrfab/Backyard/Object Layer 1/Object_29/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400202: _MapPrfab/Backyard/Object Layer 1/Object_29/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/Backyard/Grid
+    3664157343022684178: _MapPrfab/Backyard/Bound/TilemapRenderer
+    3664157343022684180: _MapPrfab/Backyard/Grass/TilemapRenderer
+    3664157343022684182: _MapPrfab/Backyard/GrassTop/TilemapRenderer
+    3664157343022684184: _MapPrfab/Backyard/Ground/TilemapRenderer
+    3664157343022684186: _MapPrfab/Backyard/GroundTop/TilemapRenderer
+    3664157343022684188: _MapPrfab/Backyard/Object/TilemapRenderer
+    3664157343022684190: _MapPrfab/Backyard/Roof/TilemapRenderer
+    3664157343022684192: _MapPrfab/Backyard/Tile Layer 5/TilemapRenderer
+    3664157343022684194: _MapPrfab/Backyard/Walls/TilemapRenderer
+    8195094279510102544: _MapPrfab/Backyard/Bound/Tilemap
+    8195094279510102546: _MapPrfab/Backyard/Grass/Tilemap
+    8195094279510102548: _MapPrfab/Backyard/GrassTop/Tilemap
+    8195094279510102550: _MapPrfab/Backyard/Ground/Tilemap
+    8195094279510102552: _MapPrfab/Backyard/GroundTop/Tilemap
+    8195094279510102554: _MapPrfab/Backyard/Object/Tilemap
+    8195094279510102556: _MapPrfab/Backyard/Roof/Tilemap
+    8195094279510102558: _MapPrfab/Backyard/Tile Layer 5/Tilemap
+    8195094279510102560: _MapPrfab/Backyard/Walls/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

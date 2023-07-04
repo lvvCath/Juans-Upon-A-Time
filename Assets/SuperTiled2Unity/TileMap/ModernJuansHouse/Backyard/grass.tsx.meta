@@ -1,0 +1,58 @@
+fileFormatVersion: 2
+guid: 7c0237a8434880144aeb6d3e36d6e14c
+ScriptedImporter:
+  fileIDToRecycleName:
+    2800000: Atlas_grass_1
+    11400000: _TilesetScriptObject
+    11400002: _superAsset
+    11400004: Tile_grass_1
+    11400006: Tile_grass_2
+    11400008: Tile_grass_3
+    11400010: Tile_grass_4
+    11400012: Tile_grass_5
+    11400014: Tile_grass_6
+    11400016: Tile_grass_7
+    11400018: Tile_grass_8
+    11400020: Tile_grass_9
+    11400022: Tile_grass_10
+    11400024: Tile_grass_11
+    11400026: Tile_grass_12
+    11400028: Tile_grass_13
+    11400030: Tile_grass_14
+    11400032: Tile_grass_15
+    11400034: Tile_grass_16
+    11400036: Tile_grass_17
+    11400038: Tile_grass_18
+    21300000: Sprite_grass_1
+    21300002: Sprite_grass_2
+    21300004: Sprite_grass_3
+    21300006: Sprite_grass_4
+    21300008: Sprite_grass_5
+    21300010: Sprite_grass_6
+    21300012: Sprite_grass_7
+    21300014: Sprite_grass_8
+    21300016: Sprite_grass_9
+    21300018: Sprite_grass_10
+    21300020: Sprite_grass_11
+    21300022: Sprite_grass_12
+    21300024: Sprite_grass_13
+    21300026: Sprite_grass_14
+    21300028: Sprite_grass_15
+    21300030: Sprite_grass_16
+    21300032: Sprite_grass_17
+    21300034: Sprite_grass_18
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 39
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

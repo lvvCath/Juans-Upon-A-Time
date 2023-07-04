@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: db0da145c699e9043a4c237c2c8614fd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: legend-of-zelda-the-legend-of-zelda-38437003-240-240_0
+    21300002: legend-of-zelda-the-legend-of-zelda-38437003-240-240_1
+    21300004: legend-of-zelda-the-legend-of-zelda-38437003-240-240_2
+    21300006: legend-of-zelda-the-legend-of-zelda-38437003-240-240_3
+    21300008: legend-of-zelda-the-legend-of-zelda-38437003-240-240_4
+    21300010: legend-of-zelda-the-legend-of-zelda-38437003-240-240_5
+    21300012: legend-of-zelda-the-legend-of-zelda-38437003-240-240_6
+    21300014: legend-of-zelda-the-legend-of-zelda-38437003-240-240_7
+    21300016: legend-of-zelda-the-legend-of-zelda-38437003-240-240_8
+    21300018: legend-of-zelda-the-legend-of-zelda-38437003-240-240_9
+    21300020: legend-of-zelda-the-legend-of-zelda-38437003-240-240_10
+    21300022: legend-of-zelda-the-legend-of-zelda-38437003-240-240_11
+    21300024: legend-of-zelda-the-legend-of-zelda-38437003-240-240_12
+    21300026: legend-of-zelda-the-legend-of-zelda-38437003-240-240_13
+    21300028: legend-of-zelda-the-legend-of-zelda-38437003-240-240_14
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 762
+        width: 68
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2dde0d8c4003249afa5fab71904309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 762
+        width: 68
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b789d5a63f54ba245aeb5f34eb4b3d21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 762
+        width: 68
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad51c66cf6888a043ad7f34a2d504bc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_3
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 758
+        width: 109
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd2133ab0a39d04e9b72c4a328e14ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 518
+        width: 124
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b1691aeacf04748bb992e17d515d3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 518
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12d2c79eb8ebeb4684781dcd6a96036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_6
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 518
+        width: 154
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad84f41e9800de44ab5f06f21122177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_7
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 510
+        width: 172
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f80ecfdcf57f0e40a3d05080da287cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 248
+        width: 191
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a304b8e1d42c6e4cbc41763e8bfc152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 248
+        width: 191
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428df761e3394684196069153a22292d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 248
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf80006ca9f79147b2e7b34792bedc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_11
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 248
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38873ce1ac72db4485069709464a6a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 206
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f28db639beb3e4bbf1980750da9f14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 206
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a2cf36082091a44b7943d365cbf7a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legend-of-zelda-the-legend-of-zelda-38437003-240-240_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 206
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f802a271d0b5484eb07187356f9fea5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

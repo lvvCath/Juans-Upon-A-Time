@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: d974668e555b65d468857616686fc5d8
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/Cave
+    100002: _MapPrfab/Cave/Ground
+    100004: _MapPrfab/Cave/Ground/Chunk (-16,-16)
+    100006: _MapPrfab/Cave/Ground/Chunk (-16,-32)
+    100008: _MapPrfab/Cave/Ground/Chunk (-32,-16)
+    100010: _MapPrfab/Cave/Ground/Chunk (-32,-32)
+    100012: _MapPrfab/Cave/Ground/Chunk (0,-16)
+    100014: _MapPrfab/Cave/Ground/Chunk (0,-32)
+    100016: _MapPrfab/Cave/GroundUp
+    100018: _MapPrfab/Cave/GroundUp/Chunk (-16,-16)
+    100020: _MapPrfab/Cave/GroundUp/Chunk (-16,-32)
+    100022: _MapPrfab/Cave/GroundUp/Chunk (-32,-32)
+    100024: _MapPrfab/Cave/GroundUp/Chunk (0,-16)
+    100026: _MapPrfab/Cave/GroundUp/Chunk (0,-32)
+    100030: _MapPrfab/Cave/Misc
+    100032: _MapPrfab/Cave/Misc/Chunk (-16,-16)
+    100034: _MapPrfab/Cave/Misc/Chunk (-16,-32)
+    100036: _MapPrfab/Cave/Misc/Chunk (-16,-48)
+    100038: _MapPrfab/Cave/Misc/Chunk (-32,-32)
+    100040: _MapPrfab/Cave/Misc/Chunk (0,-32)
+    100042: _MapPrfab/Cave/Misc/Chunk (0,-48)
+    100044: _MapPrfab/Cave/Wall
+    100046: _MapPrfab/Cave/Wall/Chunk (-16,-16)
+    100048: _MapPrfab/Cave/Wall/Chunk (-16,-32)
+    100050: _MapPrfab/Cave/Wall/Chunk (-16,-48)
+    100052: _MapPrfab/Cave/Wall/Chunk (-32,-16)
+    100054: _MapPrfab/Cave/Wall/Chunk (-32,-32)
+    100056: _MapPrfab/Cave/Wall/Chunk (-32,-48)
+    100058: _MapPrfab/Cave/Wall/Chunk (0,-16)
+    100060: _MapPrfab/Cave/Wall/Chunk (0,-32)
+    100062: _MapPrfab/Cave/Wall/Chunk (0,-48)
+    400000: _MapPrfab/Cave/Transform
+    400002: _MapPrfab/Cave/Ground/Transform
+    400004: _MapPrfab/Cave/Ground/Chunk (-16,-16)/Transform
+    400006: _MapPrfab/Cave/Ground/Chunk (-16,-32)/Transform
+    400008: _MapPrfab/Cave/Ground/Chunk (-32,-16)/Transform
+    400010: _MapPrfab/Cave/Ground/Chunk (-32,-32)/Transform
+    400012: _MapPrfab/Cave/Ground/Chunk (0,-16)/Transform
+    400014: _MapPrfab/Cave/Ground/Chunk (0,-32)/Transform
+    400016: _MapPrfab/Cave/GroundUp/Transform
+    400018: _MapPrfab/Cave/GroundUp/Chunk (-16,-16)/Transform
+    400020: _MapPrfab/Cave/GroundUp/Chunk (-16,-32)/Transform
+    400022: _MapPrfab/Cave/GroundUp/Chunk (-32,-32)/Transform
+    400024: _MapPrfab/Cave/GroundUp/Chunk (0,-16)/Transform
+    400026: _MapPrfab/Cave/GroundUp/Chunk (0,-32)/Transform
+    400030: _MapPrfab/Cave/Misc/Transform
+    400032: _MapPrfab/Cave/Misc/Chunk (-16,-16)/Transform
+    400034: _MapPrfab/Cave/Misc/Chunk (-16,-32)/Transform
+    400036: _MapPrfab/Cave/Misc/Chunk (-16,-48)/Transform
+    400038: _MapPrfab/Cave/Misc/Chunk (-32,-32)/Transform
+    400040: _MapPrfab/Cave/Misc/Chunk (0,-32)/Transform
+    400042: _MapPrfab/Cave/Misc/Chunk (0,-48)/Transform
+    400044: _MapPrfab/Cave/Wall/Transform
+    400046: _MapPrfab/Cave/Wall/Chunk (-16,-16)/Transform
+    400048: _MapPrfab/Cave/Wall/Chunk (-16,-32)/Transform
+    400050: _MapPrfab/Cave/Wall/Chunk (-16,-48)/Transform
+    400052: _MapPrfab/Cave/Wall/Chunk (-32,-16)/Transform
+    400054: _MapPrfab/Cave/Wall/Chunk (-32,-32)/Transform
+    400056: _MapPrfab/Cave/Wall/Chunk (-32,-48)/Transform
+    400058: _MapPrfab/Cave/Wall/Chunk (0,-16)/Transform
+    400060: _MapPrfab/Cave/Wall/Chunk (0,-32)/Transform
+    400062: _MapPrfab/Cave/Wall/Chunk (0,-48)/Transform
+    11400000: _MapPrfab/Cave/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/Cave/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/Cave/Ground/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/Cave/Ground/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/Cave/GroundUp/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400010: _MapPrfab/Cave/GroundUp/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400016: _MapPrfab/Cave/Misc/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400018: _MapPrfab/Cave/Misc/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400020: _MapPrfab/Cave/Wall/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400022: _MapPrfab/Cave/Wall/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400024: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/Cave/Grid
+    3664157343022684176: _MapPrfab/Cave/Ground/Chunk (-16,-16)/TilemapRenderer
+    3664157343022684178: _MapPrfab/Cave/Ground/Chunk (-16,-32)/TilemapRenderer
+    3664157343022684180: _MapPrfab/Cave/Ground/Chunk (-32,-16)/TilemapRenderer
+    3664157343022684182: _MapPrfab/Cave/Ground/Chunk (-32,-32)/TilemapRenderer
+    3664157343022684184: _MapPrfab/Cave/Ground/Chunk (0,-16)/TilemapRenderer
+    3664157343022684186: _MapPrfab/Cave/Ground/Chunk (0,-32)/TilemapRenderer
+    3664157343022684188: _MapPrfab/Cave/GroundUp/Chunk (-16,-16)/TilemapRenderer
+    3664157343022684190: _MapPrfab/Cave/GroundUp/Chunk (-16,-32)/TilemapRenderer
+    3664157343022684192: _MapPrfab/Cave/GroundUp/Chunk (-32,-32)/TilemapRenderer
+    3664157343022684194: _MapPrfab/Cave/GroundUp/Chunk (0,-16)/TilemapRenderer
+    3664157343022684196: _MapPrfab/Cave/GroundUp/Chunk (0,-32)/TilemapRenderer
+    3664157343022684200: _MapPrfab/Cave/Misc/Chunk (-16,-16)/TilemapRenderer
+    3664157343022684202: _MapPrfab/Cave/Misc/Chunk (-16,-32)/TilemapRenderer
+    3664157343022684204: _MapPrfab/Cave/Misc/Chunk (-16,-48)/TilemapRenderer
+    3664157343022684206: _MapPrfab/Cave/Misc/Chunk (-32,-32)/TilemapRenderer
+    3664157343022684208: _MapPrfab/Cave/Misc/Chunk (0,-32)/TilemapRenderer
+    3664157343022684210: _MapPrfab/Cave/Misc/Chunk (0,-48)/TilemapRenderer
+    3664157343022684212: _MapPrfab/Cave/Wall/Chunk (-16,-16)/TilemapRenderer
+    3664157343022684214: _MapPrfab/Cave/Wall/Chunk (-16,-32)/TilemapRenderer
+    3664157343022684216: _MapPrfab/Cave/Wall/Chunk (-16,-48)/TilemapRenderer
+    3664157343022684218: _MapPrfab/Cave/Wall/Chunk (-32,-16)/TilemapRenderer
+    3664157343022684220: _MapPrfab/Cave/Wall/Chunk (-32,-32)/TilemapRenderer
+    3664157343022684222: _MapPrfab/Cave/Wall/Chunk (-32,-48)/TilemapRenderer
+    3664157343022684224: _MapPrfab/Cave/Wall/Chunk (0,-16)/TilemapRenderer
+    3664157343022684226: _MapPrfab/Cave/Wall/Chunk (0,-32)/TilemapRenderer
+    3664157343022684228: _MapPrfab/Cave/Wall/Chunk (0,-48)/TilemapRenderer
+    8195094279510102542: _MapPrfab/Cave/Ground/Chunk (-16,-16)/Tilemap
+    8195094279510102544: _MapPrfab/Cave/Ground/Chunk (-16,-32)/Tilemap
+    8195094279510102546: _MapPrfab/Cave/Ground/Chunk (-32,-16)/Tilemap
+    8195094279510102548: _MapPrfab/Cave/Ground/Chunk (-32,-32)/Tilemap
+    8195094279510102550: _MapPrfab/Cave/Ground/Chunk (0,-16)/Tilemap
+    8195094279510102552: _MapPrfab/Cave/Ground/Chunk (0,-32)/Tilemap
+    8195094279510102554: _MapPrfab/Cave/GroundUp/Chunk (-16,-16)/Tilemap
+    8195094279510102556: _MapPrfab/Cave/GroundUp/Chunk (-16,-32)/Tilemap
+    8195094279510102558: _MapPrfab/Cave/GroundUp/Chunk (-32,-32)/Tilemap
+    8195094279510102560: _MapPrfab/Cave/GroundUp/Chunk (0,-16)/Tilemap
+    8195094279510102562: _MapPrfab/Cave/GroundUp/Chunk (0,-32)/Tilemap
+    8195094279510102566: _MapPrfab/Cave/Misc/Chunk (-16,-16)/Tilemap
+    8195094279510102568: _MapPrfab/Cave/Misc/Chunk (-16,-32)/Tilemap
+    8195094279510102570: _MapPrfab/Cave/Misc/Chunk (-16,-48)/Tilemap
+    8195094279510102572: _MapPrfab/Cave/Misc/Chunk (-32,-32)/Tilemap
+    8195094279510102574: _MapPrfab/Cave/Misc/Chunk (0,-32)/Tilemap
+    8195094279510102576: _MapPrfab/Cave/Misc/Chunk (0,-48)/Tilemap
+    8195094279510102578: _MapPrfab/Cave/Wall/Chunk (-16,-16)/Tilemap
+    8195094279510102580: _MapPrfab/Cave/Wall/Chunk (-16,-32)/Tilemap
+    8195094279510102582: _MapPrfab/Cave/Wall/Chunk (-16,-48)/Tilemap
+    8195094279510102584: _MapPrfab/Cave/Wall/Chunk (-32,-16)/Tilemap
+    8195094279510102586: _MapPrfab/Cave/Wall/Chunk (-32,-32)/Tilemap
+    8195094279510102588: _MapPrfab/Cave/Wall/Chunk (-32,-48)/Tilemap
+    8195094279510102590: _MapPrfab/Cave/Wall/Chunk (0,-16)/Tilemap
+    8195094279510102592: _MapPrfab/Cave/Wall/Chunk (0,-32)/Tilemap
+    8195094279510102594: _MapPrfab/Cave/Wall/Chunk (0,-48)/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

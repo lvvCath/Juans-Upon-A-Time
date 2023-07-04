@@ -1,0 +1,17 @@
+[title=SaveScene]
+You can only save one time on every Tree of Life you Encounter. 
+[question=0] Do You want to save your Progress?
+[choice]Save Game
+[choice]Dont Save
+[title=SaveScene_End]
+[save start=answeredYes_begin break=answeredYes_end data=IDOFQUESTION mod=0]
+[save start=answeredNo_begin break=answeredNo_end data=IDOFQUESTION mod=1]
+ 
+[title=answeredYes_begin]
+
+Saved!
+[title=answeredYes_end]
+[title=answeredNo_begin]
+
+Dont forget to save your progress later.
+[title=answeredNo_end]

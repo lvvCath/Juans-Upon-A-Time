@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: ad9e94af502493f4fb0e593968c48c5b
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: ac75ee8c9294a9e49904fd67d81e99ed
+  - enabled: 1
+    path: Assets/Scenes/Prologue CS.unity
+    guid: b1acad8609aca384db77e7351d251313
+  - enabled: 1
+    path: Assets/Scenes/TitleChapterOne.unity
+    guid: c8541e73651a31f44a437b3f81d868de
+  - enabled: 1
+    path: Assets/Scenes/UnangKabanata01.unity
+    guid: 71fc84df81b9d744a9bfee1763e8938b
+  - enabled: 1
+    path: Assets/Scenes/TreeHouseForest.unity
+    guid: d8f693dacc90e0042b6c9c8c453787d5
+  - enabled: 1
+    path: Assets/Scenes/UnangKabanata02.unity
+    guid: 9dd4aa3dc8eb7504da535bd6585cdd7f
+  - enabled: 1
+    path: Assets/Scenes/BossBattle.unity
+    guid: fc60d30913024ef4fa27337508102923
+  - enabled: 1
+    path: Assets/Scenes/CutSceneTent.unity
+    guid: c8cd31fc94c41f54981b81867dcd1a19
+  - enabled: 1
+    path: Assets/Scenes/CutSceneAhmadxHealer.unity
+    guid: d62b7b57a84410942b45776eab0cf8fe
+  - enabled: 1
+    path: Assets/Scenes/OceanCutScene.unity
+    guid: 38cefd14a6416e04c901ab3188a1b2af
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/bd3ec6231b8372e46b00dc5d5b068e31
+    guid: bd3ec6231b8372e46b00dc5d5b068e31
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/5ea1de343156d5341818a0f6ed229893
+    guid: 5ea1de343156d5341818a0f6ed229893
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/74e847d59b2be674c96385d581a2a2bc
+    guid: 74e847d59b2be674c96385d581a2a2bc
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/d8d34125a92c58f4797324f0bea4c537
+    guid: d8d34125a92c58f4797324f0bea4c537
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/2a1eceeeef92fe348860535555d70925
+    guid: 2a1eceeeef92fe348860535555d70925
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/11a5c2a203331bd41a3c06f70f558163
+    guid: 11a5c2a203331bd41a3c06f70f558163
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/3caab1f9f347c6f449ef8796b914b708
+    guid: 3caab1f9f347c6f449ef8796b914b708
+  - enabled: 1
+    path: Assets/Scenes/OceanCutScene.unity
+    guid: 38cefd14a6416e04c901ab3188a1b2af
+  - enabled: 1
+    path: Assets/Scenes/MactanCutscene.unity
+    guid: 04d82bfd5299d4c4595b975bedb7f890
+  - enabled: 1
+    path: Assets/Scenes/Cave Cutscene.unity
+    guid: b5068926b630b314e91fb96877999f38
+  - enabled: 1
+    path: Assets/Scenes/MactanBattleScene.unity
+    guid: b6f22762c2d02844c8764f2dfa35966f
+  - enabled: 1
+    path: Assets/Scenes/AfterMactanBattleCutscene.unity
+    guid: 6712fe94bed95ea459652756e2968058
+  - enabled: 1
+    path: Assets/Scenes/Last.unity
+    guid: 097fd45811f91cc4296d1e1c673d2e42
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: b37798d6de465b241953c9381819fdf0
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: a91a173cc81782e4a801f225d31d732d
+  m_configObjects: {}
